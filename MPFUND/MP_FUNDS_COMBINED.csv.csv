@@ -1,0 +1,557 @@
+State,House,S.No.,MP Name,Constituency,District,Total Entitlement (in Crore),"Total GOI Release 
+ (in Crore)",Total Release Pending (in Crore),"UnSanction Balance 
+(in Crore)","UnSpent Balance
+(in Crore)","Last Inst. 
+No.",Last Inst. Yr.,"Last Release 
+Date","Last Release
+Amount
+(in Crore)",Column16,Pending Inst. No & Year.,Reasons for not Release
+A & N Islands,8,1,SHRI. kuldeep rai sharma,ANDAMAN AND NICOBAR ISLANDS,SOUTH ANDAMAN,17,5,12,-5.72,2.68,2,2019-2020,14-03-2022,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Andhra Pradesh,8,1,Dr Beesetti Venkata Satyavathi,ANAKAPALLE,Anakapalli,17,7,10,0.26,2.75,1,2022-2023,19-04-2023,2.5,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Andhra Pradesh,null,2,Dr. Sanjeev Kumar Singari,KURNOOL,KURNOOL,19.5,7,12.5,-4.23,0.01,1,2021-2022,20-02-2023,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2018-2019,2 / 2022-2023",
+Andhra Pradesh,null,3,Ms. Goddeti Madhavi,ARAKU(ST),Alluri Sitharama Raju,17,7,10,-1.71,0.64,1,2021-2022,10-11-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Andhra Pradesh,null,4,Shri Adala Reddy,NELLORE(SC),NELLORE,17,5,12,-1.04,1.9,2,2019-2020,23-03-2021,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",A/C Balance Mismatch in MPR and Bank A/C.
+Andhra Pradesh,null,5,Shri Chandra Sekhar Bellana,VIZIANAGARAM,VIZIANAGARAM,17,7,10,0.02,2.21,1,2021-2022,17-06-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Andhra Pradesh,null,6,Shri Durga Prasad Rao Balli-Ex,TIRUPATI(SC),NELLORE,10,5,5,0.55,3.16,2,2019-2020,24-06-2021,2.5,null,1 / 2023-2024,Eligible MPR not Received.
+Andhra Pradesh,null,7,Shri Kinjarapu Ram Mohan Naidu,SRIKAKULAM,SRIKAKULAM,17,9.5,7.5,-2.69,1.06,1,2022-2023,30-11-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Andhra Pradesh,null,8,Shri Kotagiri Sridhar,ELURU,Eluru,17,7,10,-10.03,1.49,1,2021-2022,13-03-2023,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Andhra Pradesh,null,9,Shri Magunta Sreenivasulu Reddy,ONGOLE,PRAKASAM,24.5,5,19.5,-6.87,1.67,2,2019-2020,30-03-2020,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,1 / 2018-2019,2 / 2018-2019,2 / 2017-2018,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Andhra Pradesh,null,10,Shri Midhun Reddy,RAJAMPET,Annamayya,19.5,7,12.5,-11.54,2.09,1,2021-2022,24-05-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2018-2019,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Andhra Pradesh,null,11,Shri Nallakonda Gari Reddeppa,CHITTOOR,CHITTOOR,17,7,10,-10.22,4.12,1,2021-2022,30-05-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Andhra Pradesh,null,12,Shri Raghu Ramakrishna Raju Kanumuru,NARASAPURAM,WEST GODAVARI,17,5,12,4.68,9.6,2,2019-2020,24-03-2021,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Andhra Pradesh,null,13,Shri Srinivas Kesineni,VIJAYAWADA,NTR,17,9.5,7.5,-7.7,2.78,1,2022-2023,13-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Andhra Pradesh,null,14,Shri Y. S. Avinash Reddy,KADAPA,CUDDAPAH,17,7,10,-1.45,2.92,1,2021-2022,14-11-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Andhra Pradesh,null,15,SHRI. Balashowry Vallabbhaneni,MACHILIPATNAM,KRISHNA,17,7,10,-5.22,2.91,1,2021-2022,23-03-2023,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Andhra Pradesh,null,16,SHRI. Jayadev Galla,GUNTUR,GUNTUR,17,5,12,-3.12,2.36,2,2019-2020,23-03-2021,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Andhra Pradesh,null,17,SHRI. Kuruva Gorantla Madhav,HINDUPUR,Sri Sathya Sai,17,9.5,7.5,-6.36,2.16,1,2022-2023,17-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Andhra Pradesh,null,18,SHRI. Lavu Sri Krishna Devarayalu,NARASARAOPET,Palnadu,17,7,10,-2.1,1.24,1,2021-2022,30-05-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Andhra Pradesh,null,19,SHRI. Maddila Gurumoorthy,TIRUPATI(SC),Tirupati,12,2,10,-7.45,2.43,1,2021-2022,28-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",Eligible MPR not Received.
+Andhra Pradesh,null,20,SHRI. Margani Bharat,RAJAHMUNDRY,EAST GODAVARI,17,7,10,-8.52,2.24,1,2021-2022,21-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Andhra Pradesh,null,21,SHRI. MVVV Satyanarayana,VISAKHAPATNAM,VISAKHAPATNAM,17,7,10,0.93,2,1,2021-2022,10-11-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Andhra Pradesh,null,22,SHRI. Nandigam Suresh,BAPATLA,Bapatla,17,7,10,-8.21,0.02,1,2021-2022,30-05-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Andhra Pradesh,null,23,SHRI. Pocha Brahmananda Reddy,NANDYAL,Nandyal,27,17,10,-4.08,2.3,1,2017-2018,17-03-2023,2.5,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Andhra Pradesh,null,24,SHRI. Talari Rangaiah,ANANTAPUR,ANANTAPUR,24.5,7,17.5,-11.75,1.18,1,2021-2022,11-02-2022,2,null,"1 / 2022-2023,1 / 2023-2024,1 / 2018-2019,2 / 2018-2019,2 / 2017-2018,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Andhra Pradesh,null,25,Smt. Chinta Anuradha,AMALAPURAM(SC),Dr. B.R. Ambedkar Konaseema,17,5,12,-6.33,0.18,2,2019-2020,26-03-2021,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Andhra Pradesh,null,26,Smt. Geetha Viswanath Vanga,KAKINADA,EAST GODAVARI,17,7,10,-4.05,2.01,1,2021-2022,23-02-2023,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Arunachal Pradesh,8,1,Shri Kiren Rijiju,ARUNACHAL WEST,WEST SIANG,17,7,10,0.49,1.06,1,2021-2022,28-02-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Arunachal Pradesh,null,2,Shri Tapir Gao,ARUNACHAL EAST,LOHIT,17,7,10,0.19,0.19,1,2021-2022,30-11-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Assam,8,1,Dr. Rajdeep Roy,SILCHAR,CACHAR,17,12,5,0.13,0.25,2,2022-2023,26-09-2022,2.5,null,1 / 2023-2024,
+Assam,null,2,Maulana Ajmal Badruddin,DHUBRI,DHUBRI,17,12,5,2.43,3.79,2,2022-2023,18-11-2022,2.5,null,1 / 2023-2024,
+Assam,null,3,SH. Teli Rameswar,DIBRUGARH,DIBRUGARH,17,7,10,0.67,1.02,1,2021-2022,17-01-2023,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Assam,null,4,Shri Abdul Khaleque,BARPETA,BARPETA,17,7,10,0.14,1.03,1,2021-2022,21-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Assam,null,5,Shri Gaurav Gogoi,KALIABOR,GOLAGHAT,17,12,5,0.98,1.19,2,2022-2023,28-03-2023,2.5,null,1 / 2023-2024,
+Assam,null,6,Shri Naba (Hira) Kumar Sarania,KOKRAJHAR (ST),NALBARI,17,9.5,7.5,0.28,0.4,1,2022-2023,17-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Assam,null,7,Shri Pallab Lochan Das,TEZPUR,SONITPUR,17,9.5,7.5,0.16,0.91,1,2022-2023,14-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Assam,null,8,Shri Pradan Baruah,LAKHIMPUR,DHEMAJI,17,12,5,0.2,0.82,2,2022-2023,31-01-2023,2.5,null,1 / 2023-2024,
+Assam,null,9,Shri Topon Kumar Gogoi,JORHAT,CHARAIDEO,17,7,10,0.24,1.02,1,2021-2022,28-02-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Assam,null,10,SHRI. Dilip Saikia,MANGALDOI,DARRANG,17,9.5,7.5,0.95,1.8,1,2022-2023,20-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Assam,null,11,SHRI. Horen Sing Bey,AUTONOMOUS DISTRICT(ST),KARBI ANGLONG,29.5,19.5,10,0.25,1.61,1,2021-2022,20-03-2023,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Assam,null,12,SHRI. Kripanath Mallah,KARIMGANJ (SC),KARIM GANJ,17,7,10,0.46,0.82,1,2021-2022,27-06-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Assam,null,13,SHRI. Pradyut Bordoloi,NOWGONG,NOWGONG,17,12,5,0.28,1.05,2,2022-2023,28-03-2023,2.5,null,1 / 2023-2024,
+Assam,null,14,Smt. Queen Oja,GUWAHATI,KAMRUP METROPOLITAN,17,9.5,7.5,0.88,2.33,1,2022-2023,02-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Bihar,8,1,Prince Raj,SAMASTIPUR(SC),SAMASTIPUR,17,9.5,7.5,-0.8,0.21,1,2022-2023,30-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Bihar,null,2,Chaudhary Mehboob Ali Kaiser,KHAGARIA,KHAGARIA,17,12,5,0.76,0.76,2,2022-2023,07-02-2023,2.5,null,1 / 2023-2024,
+Bihar,null,3,Dr Mohammad Jawed,KISHANGANJ,KISHANGANJ,19.5,9.5,10,-2.1,1.49,1,2022-2023,30-03-2023,2.5,null,"1 / 2023-2024,1 / 2018-2019,2 / 2022-2023",
+Bihar,null,4,Dr. Alok Kumar Suman,GOPALGANJ (SC),GOPALGANJ,17,9.5,7.5,0.76,1.75,1,2022-2023,10-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Bihar,null,5,Dr. Sanjay Jaiswal,PASCHIM CHAMPARAN,BETTIAH (W.CHAMPARAN),17,5,12,-0.13,0.33,2,2019-2020,06-03-2023,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Bihar,null,6,Mr. Gopal Jee Thakur,DARBHANGA,DARBANGA,17,5,12,-1.04,1.72,2,2019-2020,29-03-2021,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Bihar,null,7,Shri Ajay Kumar Mandal,BHAGALPUR,BHAGALPUR,17,7,10,-6.21,1.29,1,2021-2022,30-09-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Bihar,null,8,Shri Ajay Nishad,MUZAFFARPUR,MUZAFFARPUR,17,12,5,0.01,0.27,2,2022-2023,06-03-2023,2.5,null,1 / 2023-2024,
+Bihar,null,9,Shri Ashok Kumar Yadav,MADHUBANI,MADHUBANI,17,9.5,7.5,0.78,1.34,1,2022-2023,15-02-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Bihar,null,10,Shri Ashwini Kumar Choubey,BUXAR,BUXAR,17,9.5,7.5,0.21,1.12,1,2022-2023,02-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Bihar,null,11,Shri Chandan Singh,NAWADA,SHEKHPURA,17,5,12,0.71,2.23,2,2019-2020,17-08-2021,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Bihar,null,12,Shri Chhedi Paswan,SASARAM(SC),KAIMUR (BHABUA),17,12,5,0.03,0.78,2,2022-2023,02-01-2023,2.5,null,1 / 2023-2024,
+Bihar,null,13,Shri Chirag Paswan,JAMUI(SC),JAMUI,17,7,10,0.09,0.97,1,2021-2022,15-02-2023,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Bihar,null,14,Shri Giridhari Yadav,BANKA,BANKA,17,9.5,7.5,-0.06,1.35,1,2022-2023,27-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Bihar,null,15,Shri Giriraj Singh,BEGUSARAI,BEGUSARAI,17,7,10,1.43,1.43,1,2021-2022,27-05-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Bihar,null,16,Shri Janardan Singh Sigriwal,MAHARAJGANJ,SARAN,17,5,12,0.33,0.02,2,2019-2020,28-03-2021,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",Provisional Utilisation Certificate Pending.
+Bihar,null,17,Shri Kaushalendra Kumar,NALANDA,BIHAR SHARIF/NALANDA,17,7,10,-0.67,0.93,1,2021-2022,09-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Bihar,null,18,Shri Mahabali Singh,KARAKAT,ROHTAS,17,9.5,7.5,0.7,2.87,1,2022-2023,30-09-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Bihar,null,19,Shri Nityanand Rai,UJJARPUR,SAMASTIPUR,17,7,10,-0.15,2.4,1,2021-2022,14-03-2023,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Bihar,null,20,Shri Pradeep Kumar Singh,ARARIA,ARARIA,17,7,10,-6.51,0.03,1,2021-2022,14-02-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Bihar,null,21,Shri Radha Mohan Singh,PURVI CHAMPARAN,MOTHIHARI (E.CHAMPARAN),17,7,10,0.38,2.89,1,2021-2022,30-09-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Bihar,null,22,Shri Rajiv Pratap Rudy,SARAN,SARAN,34.5,5,29.5,0.47,2.88,2,2019-2020,25-11-2022,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,1 / 2016-2017,1 / 2017-2018,1 / 2018-2019,2 / 2018-2019,2 / 2017-2018,2 / 2016-2017,2 / 2015-2016,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Bihar,null,23,Shri Rajiv Ranjan (Lalan) Singh,MUNGER,LAKHISARAI,17,7,10,0.75,2.28,1,2021-2022,21-02-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Bihar,null,24,Shri Ram Kripal Yadav,PATALIPUTRA,PATNA,17,5,12,0.02,2.98,2,2019-2020,21-12-2022,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Bihar,null,25,Shri Santosh Kumar,PURNEA,PURNEA,17,7,10,-1.72,0.06,1,2021-2022,11-02-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Bihar,null,26,Shri Sunil Kumar,VALMIKI NAGAR,BETTIAH (W.CHAMPARAN),24,4.5,19.5,-0.39,1.06,1,2022-2023,15-02-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Bihar,null,27,Shri Sunil Kumar Pintu,SITAMARHI,SITAMARHI,17,7,10,-0.34,0.27,1,2021-2022,28-11-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Bihar,null,28,Shri Sushil Kumar Singh,AURANGABAD,AURANGABAD,17,5,12,0.02,1,2,2019-2020,27-03-2021,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Bihar,null,29,SHRI. Chandeshwar Prasad,JAHANABAD,JEHANABAD,17,7,10,0.53,0.84,1,2021-2022,13-12-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Bihar,null,30,SHRI. Dileshwar Kamait,SUPAUL,SUPAUL,17,12,5,-3.39,0.14,2,2022-2023,02-01-2023,2.5,null,1 / 2023-2024,
+Bihar,null,31,SHRI. Dinesh Chandra Yadav,MADHEPURA,SAHARSA,17,5,12,0.67,1.15,2,2019-2020,26-07-2022,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Bihar,null,32,SHRI. Dulal Chandra Goswami,KATIHAR,KATIHAR,17,12,5,-0.52,1.89,2,2022-2023,30-03-2023,2.5,null,1 / 2023-2024,
+Bihar,null,33,SHRI. Pashupati Kumar Paras,HAJIPUR(SC),VAISHALI,17,9.5,7.5,-2.17,1.8,1,2022-2023,20-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Bihar,null,34,SHRI. Raj Kumar Singh,ARRAH,BHOJPUR(ARRAH),17,2.5,14.5,0.89,2.8,1,2019-2020,06-11-2019,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2019-2020,2 / 2022-2023",
+Bihar,null,35,SHRI. Ramprit Mandal,JHANJHARPUR,MADHUBANI,17,12,5,-0.02,0.36,2,2022-2023,02-01-2023,2.5,null,1 / 2023-2024,
+Bihar,null,36,SHRI. Ravi Shankar Prasad,PATNA SAHIB,PATNA,17,5,12,-1.23,0.05,2,2019-2020,20-09-2022,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Bihar,null,37,SHRI. vijay kumar,GAYA (SC),GAYA,17,9.5,7.5,0.21,1.69,1,2022-2023,29-11-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Bihar,null,38,Smt Kavita Singh,SIWAN,SIWAN,17,7,10,-5.44,0.47,1,2021-2022,01-03-2023,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Bihar,null,39,Smt Veena Devi,VAISHALI,MUZAFFARPUR,17,5,12,-0.69,0.09,2,2019-2020,23-03-2021,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",Provisional Utilisation Certificate Pending.
+Bihar,null,40,Smt. Rama Devi,SHEOHAR,MOTHIHARI (E.CHAMPARAN),17,9.5,7.5,0.57,0.98,1,2022-2023,02-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Chandigarh,8,1,Smt. Kirron Kher,CHANDIGARH,CHANDIGARH,17,7,10,-4.19,0.17,1,2021-2022,28-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Chhattisgarh,8,1,Shri Guharam Ajgalley,JANJGIR CHAMPA(SC),JANJGIR-CHAMPA,17,12,5,0.41,2.12,2,2022-2023,16-03-2023,2.5,null,1 / 2023-2024,
+Chhattisgarh,null,2,Shri Mohan Mandavi,KANKER(ST),UTTAR BASTAR KANKER,17,9.5,7.5,0.2,0.51,1,2022-2023,28-11-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Chhattisgarh,null,3,SHRI. Arun Sao,BILASPUR,BILASPUR,17,9.5,7.5,0.6,2.46,1,2022-2023,31-10-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Chhattisgarh,null,4,SHRI. Chunni lal Sahu,MAHASAMUND,MAHASAMUND,17,12,5,0.68,1.97,2,2022-2023,23-12-2022,2.5,null,1 / 2023-2024,
+Chhattisgarh,null,5,SHRI. Deepak Baij,BASTAR(ST),BASTAR,17,9.5,7.5,-4.29,1.86,1,2022-2023,30-11-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Chhattisgarh,null,6,SHRI. Santosh Pandey,RAJNANDGAON,RAJNANDGAON,17,9.5,7.5,0.83,0.83,1,2022-2023,13-12-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Chhattisgarh,null,7,SHRI. Sunil Kumar soni,RAIPUR,RAIPUR,17,7,10,0.9,2.59,1,2021-2022,14-02-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Chhattisgarh,null,8,SHRI. vijay baghel,DURG,DURG,17,9.5,7.5,0.05,0.65,1,2022-2023,30-11-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Chhattisgarh,null,9,Smt Gomati Sai,RAIGARH(ST),JASHPUR,17,12,5,0.52,1.28,2,2022-2023,01-03-2023,2.5,null,1 / 2023-2024,
+Chhattisgarh,null,10,Smt Jyotsna Charandas Mahant,KORBA,KORBA,17,12,5,-0.65,0.77,2,2022-2023,27-01-2023,2.5,null,1 / 2023-2024,
+Chhattisgarh,null,11,Smt Renuka Singh Saruta,SARGUJA(ST),Surajpur,17,9.5,7.5,0.35,1.43,1,2022-2023,25-05-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+D & N Haveli,8,1,Smt Kalaben Mohanbhai Delkar,DADRA & NAGAR HAVELI (ST),DADRA AND NAGAR HAVELI,24,2,22,2.78,2.93,1,2021-2022,14-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",Eligible MPR not Received.
+Daman & Diu,8,1,Shri Lalubhai Babubhai Patel,DAMAN & DIU,DAMAN,17,7,10,0.15,2.25,1,2021-2022,30-06-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Delhi,8,1,Dr. Harsh Vardhan,CHANDINI CHOWK,COMMISSIONER NORTH DELHI MUNICIPAL CORPORATION,22,7.5,14.5,-10.2,1.31,1,2013-2014,30-03-2020,2.5,null,"1 / 2022-2023,1 / 2021-2022,1 / 2023-2024,2 / 2022-2023,2 / 2019-2020",Eligible MPR not Received.
+Delhi,null,2,Shri Gautam Gambhir,EAST DELHI,COMMISSIONER EAST DELHI MUNICIPAL CORPORATION,17,7,10,-8.5,0.25,1,2021-2022,30-03-2023,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Delhi,null,3,Shri Manoj Kumar Tiwari,NORTH EAST DELHI,COMMISSIONER EAST DELHI MUNICIPAL CORPORATION,17,7,10,-1.02,2.74,1,2021-2022,30-03-2023,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Delhi,null,4,Shri Parvesh Sahib Singh,WEST DELHI,COMMISSIONER SOUTH DELHI MUNICIPAL CORPORATION,17,5,12,-11.68,0.69,2,2019-2020,22-03-2021,2.5,null,"1 / 2022-2023,1 / 2021-2022,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Delhi,null,5,Shri Raj Hans Hans,NORTH WEST DELHI(SC),COMMISSIONER NORTH DELHI MUNICIPAL CORPORATION,17,5,12,-7.23,0.2,2,2019-2020,22-03-2021,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Delhi,null,6,Shri Ramesh Bidhuri,SOUTH DELHI,COMMISSIONER SOUTH DELHI MUNICIPAL CORPORATION,17,7,10,-6.94,1.55,1,2021-2022,31-01-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Delhi,null,7,Smt. Meenakashi Lekhi,NEW DELHI,COMMISSIONER SOUTH DELHI MUNICIPAL CORPORATION,17,7,10,-9.78,0,1,2021-2022,31-01-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Goa,8,1,Shri Francisco Cosme Sardinha,SOUTH GOA,SOUTH GOA,17,7,10,-3.56,0.25,1,2021-2022,06-06-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Goa,null,2,Shri Shripad Yesso Naik,NORTH GOA,NORTH GOA,17,5,12,-2.8,0.94,2,2019-2020,25-06-2021,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Gujarat,8,1,Dr Kirit Premjibhai Solanki,AHMEDABAD WEST(SC),AHMEDABAD,17,9.5,7.5,-1.99,0.01,1,2022-2023,23-02-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Gujarat,null,2,Dr. Bharatiben Dhirubhai Shyal,BHAVNAGAR,BHAVNAGAR,17,7,10,-1.61,0.27,1,2021-2022,10-01-2023,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Gujarat,null,3,Dr. K. C. Patel,VALSAD(ST),VALSAD,17,7,10,0.47,0.88,1,2021-2022,08-02-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",Provisional Utilisation Certificate Pending.
+Gujarat,null,4,Dr. Mahendrabhai Kalubhai Munjpara,SURENDRANAGAR,SURENDRANAGAR,17,7,10,0.4,0.61,1,2021-2022,03-02-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",Eligible MPR not Received.
+Gujarat,null,5,Shri Amit Anil Chandra Shah,GANDHINAGAR,AHMEDABAD,17,9.5,7.5,2.5,3.54,1,2022-2023,23-02-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Gujarat,null,6,Shri Bharatsinhji Shankarji Dabhi,PATAN,PATAN,17,9.5,7.5,0.59,2.01,1,2022-2023,30-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Gujarat,null,7,Shri C. R. Patil,NAVSARI,NAVSARI,17,9.5,7.5,-0.06,0.6,1,2022-2023,27-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Gujarat,null,8,Shri Devusinh Jesingbhai Chauhan,KHEDA,KHEDA,17,7,10,2.2,2.35,1,2021-2022,21-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",Provisional Utilisation Certificate Pending.
+Gujarat,null,9,Shri Dipsinh Shankarsinh Rathod,SABARKANTHA,SABARKANTHA,17,9.5,7.5,-1.78,0.69,1,2022-2023,30-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Gujarat,null,10,Shri Jaswantsinh Sumanbhai Bhabhor,DAHOD(ST),DAHOD,17,7,10,0.15,0.37,1,2021-2022,30-05-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",Provisional Utilisation Certificate Pending.
+Gujarat,null,11,Shri Mansukhbhai Dhanjibhai Vasava,BHARUCH,Bharuch,17,9.5,7.5,-0.86,0.57,1,2022-2023,15-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Gujarat,null,12,Shri Mitesh Rameshbhai Bakabhai Patel,ANAND,ANAND,17,9.5,7.5,-1.83,1.9,1,2022-2023,27-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Gujarat,null,13,Shri Mohanbhai Kalyanji Kundariya,RAJKOT,RAJKOT,17,5,12,-0.07,0.89,2,2019-2020,23-03-2021,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",Eligible MPR not Received.
+Gujarat,null,14,Shri Naranbhai Bhikhabhai Kachhadiya,AMRELI,AMRELI,17,9.5,7.5,-1.16,1.52,1,2022-2023,27-10-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Gujarat,null,15,Shri Parbatbhai Savabhai Patel,BANASKANTHA,BANASKANTHA,17,9.5,7.5,0.07,1.48,1,2022-2023,30-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Gujarat,null,16,Shri Prabhubhai Nagarbhai Vasava,BARDOLI(ST),SURAT,17,7,10,1.2,1.99,1,2021-2022,04-02-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",Eligible MPR not Received.
+Gujarat,null,17,Shri Rajeshbhai Naranbhai Chudasama,JUNAGADH,JUNAGADH,17,7,10,-0.7,1.65,1,2021-2022,28-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",Provisional Utilisation Certificate Pending.
+Gujarat,null,18,Shri Rameshbhai Lavjibhai Dhaduk,PORBANDAR,PORBANDAR,17,9.5,7.5,-0.58,0.15,1,2022-2023,26-12-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Gujarat,null,19,Shri Ratansinh Magansinh Rathod,PANCHMAHAL,Mahisagar,17,7,10,0.3,0.75,1,2021-2022,03-01-2023,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Gujarat,null,20,Shri Vinod Chavda,KACHCHH(SC),KACHCHH,17,9.5,7.5,-3.96,2.36,1,2022-2023,10-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Gujarat,null,21,SHRI. Hasmukh bhai Soma bhai Patel,AHMEDABAD EAST,AHMEDABAD,17,9.5,7.5,-0.96,0.89,1,2022-2023,23-02-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Gujarat,null,22,Smt Gitaben Vajesingbhai Rathva,CHHOTA UDAIPUR(ST),CHHOTA UDAIPUR,17,9.5,7.5,-2.64,0.04,1,2022-2023,06-10-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Gujarat,null,23,Smt. Darshana Vikram Jardosh,SURAT,SURAT,17,9.5,7.5,-0.51,0.24,1,2022-2023,26-12-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Gujarat,null,24,Smt. Poonamben Hematbhai Maadam,JAMNAGAR,JAMNAGAR,17,9.5,7.5,0.3,2.19,1,2022-2023,30-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Gujarat,null,25,Smt. Ranjanben Dhananjay Bhatt,VADODARA,VADODARA,17,9.5,7.5,1.51,1.99,1,2022-2023,21-10-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Gujarat,null,26,Smt. Shardaben Anilbhai Patel,MAHESANA,MAHESANA,17,7,10,-3.33,1.1,1,2021-2022,07-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",Eligible MPR not Received.
+Haryana,8,1,Dr. Arvind Kumar Sharma,ROHTAK,ROHTAK,17,5,12,0.11,2.68,2,2019-2020,21-03-2022,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Haryana,null,2,Shri Dharambir Singh,BHIWANI MAHENDRAGARH,MAHENDRAGARH,17,12,5,0,1.6,2,2022-2023,30-11-2022,2.5,null,1 / 2023-2024,
+Haryana,null,3,Shri Krishan Pal Gurjar,FARIDABAD,FARIDABAD,17,5,12,0.01,2.93,2,2019-2020,10-03-2023,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Haryana,null,4,Shri Ramesh Chander Kaushik,SONEPAT,SONEPAT,17,9.5,7.5,0.87,2.96,1,2022-2023,30-12-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Haryana,null,5,Shri Rao Inderjit Singh,GURGAON,REWARI,17,7,10,0.9,1.83,1,2021-2022,28-01-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Bank Statement Awaited, Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Haryana,null,6,SHRI. Brijendra Singh,HISAR,HISSAR,17,7,10,-0.63,2.26,1,2021-2022,30-06-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Haryana,null,7,SHRI. Nayab Singh,KURUKSHETRA,KURUKSHETRA,17,9.5,7.5,0.15,2.94,1,2022-2023,20-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Haryana,null,8,SHRI. Rattan Lal kataria,AMBALA (SC),PANCHKULA,17,7,10,1.97,4.5,1,2021-2022,26-08-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Haryana,null,9,SHRI. sanjay bhatia,KARNAL,KARNAL,22,10,12,0.16,2.16,2,2018-2019,21-03-2022,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Haryana,null,10,Smt Sunita Duggal,SIRSA(SC),SIRSA,17,9.5,7.5,0.08,2.84,1,2022-2023,10-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Himachal Pradesh,8,1,Shri Anurag Singh Thakur,HAMIRPUR,HAMIRPUR,17,7,10,0.12,2.33,1,2021-2022,26-07-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Himachal Pradesh,null,2,Shri Kishan Kapoor,KANGRA,KANGRA,17,7,10,0.84,2.75,1,2021-2022,07-02-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Himachal Pradesh,null,3,Shri Suresh Kumar Kashyap,SHIMLA (SC),SIRMAUR,17,9.5,7.5,0,1.12,1,2022-2023,10-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Himachal Pradesh,null,4,Smt Pratibha Singh,MANDI,MANDI,24,4.5,19.5,0.34,2.44,1,2022-2023,22-12-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Jammu & Kashmir,8,1,Dr Jitendra Singh,UDHAMPUR,KATHUA,17,9.5,7.5,-1.19,2.5,1,2022-2023,27-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Jammu & Kashmir,null,2,Dr. Farooq Abdullah,SRINAGAR,SRINAGAR,17,9.5,7.5,0.11,2.96,1,2022-2023,29-08-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Jammu & Kashmir,null,3,Shri Hasnain Masoodi,ANANTNAG,ANANTNAG,17,7,10,0.01,2.68,1,2021-2022,10-11-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Jammu & Kashmir,null,4,Shri Jugal Kishore Sharma,JAMMU,JAMMU,17,9.5,7.5,-2.57,2.77,1,2022-2023,13-10-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Jammu & Kashmir,null,5,Shri Mohammad Akbar Lone,BARAMULLAH,BARAMULLAH,17,9.5,7.5,-3.39,1.45,1,2022-2023,24-11-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Jharkhand,8,1,Dr. Nishikant Dubey,GODDA,DEOGHAR,17,2.5,14.5,2.5,2.5,1,2019-2020,19-02-2020,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2019-2020,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Jharkhand,null,2,Ms. Annpurna Devi,KODARMA,KODARMA,17,9.5,7.5,0.36,1.95,1,2022-2023,20-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Jharkhand,null,3,Shri Arjun Munda,KHUNTI(ST),KHUNTI,17,9.5,7.5,0,0.09,1,2022-2023,23-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",Under Process.
+Jharkhand,null,4,Shri Bidyut Baran Mahato,JAMSHEDPUR,EAST SINGHBUM,17,9.5,7.5,0.54,0.54,1,2022-2023,15-02-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Jharkhand,null,5,Shri Jayant Sinha,HAZARIBAGH,HAZARIBAGH,17,9.5,7.5,0.36,1.14,1,2022-2023,29-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Jharkhand,null,6,Shri Pashupati Nath Singh,DHANBAD,DHANBAD,17,9.5,7.5,0.06,2.6,1,2022-2023,10-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Jharkhand,null,7,Shri Sanjay Seth,RANCHI,RANCHI,17,12,5,-0.42,0.43,2,2022-2023,09-03-2023,2.5,null,1 / 2023-2024,
+Jharkhand,null,8,Shri Sudarshan Bhagat,LOHARDAGA(ST),RANCHI,17,12,5,-0.18,0.17,2,2022-2023,09-03-2023,2.5,null,1 / 2023-2024,
+Jharkhand,null,9,Shri Sunil Kumar Singh,CHATRA,CHATRA,19.5,12,7.5,0.58,2.61,2,2018-2019,20-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Jharkhand,null,10,Shri Vijay Kumar Hansdak,RAJMAHAL(ST),SAHEBGANJ,17,9.5,7.5,0.1,0.4,1,2022-2023,02-11-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Jharkhand,null,11,Shri Vishnu Dayal Ram,PALAMU(SC),PALAMAU,17,9.5,7.5,-0.12,1.48,1,2022-2023,13-12-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Jharkhand,null,12,SHRI. Chandra Prakash Choudhary,GIRIDIH,BOKARO,17,7,10,0.28,0.87,1,2021-2022,28-09-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Jharkhand,null,13,SHRI. geeta kora,SINGHBHUM(ST),CHAIBAS (W.SINGHBHUM),17,7,10,0.09,1.18,1,2021-2022,25-02-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Jharkhand,null,14,SHRI. Sunil Soren,DUMKA(ST),DUMKA,17,7,10,-0.9,0.57,1,2021-2022,14-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Karnataka,8,1,Dr Umesh Jadhav,GULBARGA(SC),KALABURAGI,17,2.5,14.5,0.24,3.11,1,2019-2020,22-10-2019,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2019-2020,2 / 2022-2023",Eligible MPR not Received.
+Karnataka,null,2,Km. Shobha Karandlaje,UDUPI CHIKMAGALUR,UDUPI,17,7,10,0.56,1.11,1,2021-2022,23-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Karnataka,null,3,Shri Anantkumar Hegde,UTTARA KANNADA,UTTAR KANNAD,17,12,5,0.86,2.29,2,2022-2023,30-12-2022,2.5,null,1 / 2023-2024,
+Karnataka,null,4,Shri Annasaheb Shankar Jolle,CHIKKODI,BELAGAVI,17,7,10,0.69,1.93,1,2021-2022,02-09-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Karnataka,null,5,Shri B. Y. Raghavendra,SHIMOGA,SHIVAMOGGA,17,7,10,-2.5,0.29,1,2021-2022,13-05-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Karnataka,null,6,Shri Bhagwanth Khuba,BIDAR,BIDAR,17,9.5,7.5,-1.02,0.65,1,2022-2023,21-12-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Karnataka,null,7,Shri D.V. Sadananda Gowda,BANGALORE NORTH,BENGALURU URBAN,17,7,10,-4.3,0.01,1,2021-2022,17-05-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Karnataka,null,8,Shri Doddaalahalli Kempegowda Suresh,BANGALORE RURAL,RAMANAGARA,17,7,10,0.09,0.91,1,2021-2022,23-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Karnataka,null,9,Shri Gangasandra Siddappa Basavaraj,TUMKUR,TUMAKURU,17,7,10,0.25,1.08,1,2021-2022,26-08-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Karnataka,null,10,Shri Gowdar Mallikarjunappa Siddeshwara,DAVANAGERE,DAVANGERE,17,12,5,0.79,1.67,2,2022-2023,23-03-2023,2.5,null,1 / 2023-2024,
+Karnataka,null,11,Shri Nalin Kumar Kateel,DAKSHINA KANNADA,DAKSHIN KANNAD,17,9.5,7.5,0.31,1.03,1,2022-2023,30-09-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Utilisation Certificate Pending."
+Karnataka,null,12,Shri Narayana Swamy Abbaiah,CHITRADURGA(SC),CHITRADURGA,17,7,10,0.17,1.13,1,2021-2022,01-06-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Karnataka,null,13,Shri P. C. Mohan,BANGALORE CENTRAL,BENGALURU URBAN,17,7,10,-0.23,0.89,1,2021-2022,01-06-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Karnataka,null,14,Shri Parvatagouda Chandanagouda Gaddigoudar,BAGALKOT,BAGALKOT,17,9.5,7.5,0.09,1.09,1,2022-2023,30-11-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Karnataka,null,15,Shri Prajwal Revanna,HASSAN,HASSAN,24.5,14.5,10,0.71,1.59,2,2018-2019,27-09-2022,2.5,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Karnataka,null,16,Shri Pralhad Venkatesh Joshi,DHARWAD,DHARWAR,17,7,10,1.6,2.31,1,2021-2022,01-06-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Karnataka,null,17,Shri Prathap Simha,MYSORE,MYSORE,17,12,5,0.12,1.03,2,2022-2023,31-01-2023,2.5,null,1 / 2023-2024,
+Karnataka,null,18,Shri Raja Amareshwara Naik,RAICHUR(ST),RAICHUR,17,7,10,0.03,1.17,1,2021-2022,20-05-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Karnataka,null,19,Shri Ramesh Chandappa Jigajinagi,BIJAPUR(SC),BIJAPUR,17,5,12,-13.96,2.29,2,2019-2020,27-09-2022,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Karnataka,null,20,Shri S. Muniswamy,KOLAR(SC),KOLAR,17,7,10,0.73,0.99,1,2021-2022,08-06-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Karnataka,null,21,Shri Sanganna Amarappa Karadi,KOPPAL,KOPPAL,17,7,10,0.77,1.31,1,2021-2022,21-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Karnataka,null,22,Shri Shivkumar Chanabasappa Udasi,HAVERI,HAVERI,17,7,10,-0.01,0.18,1,2021-2022,20-09-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Karnataka,null,23,Shri Suresh Chanabasappa Angadi-Ex,BELGAUM,BELAGAVI,10,5,5,0.38,1.18,2,2019-2020,16-06-2021,2.5,null,1 / 2023-2024,Eligible MPR not Received.
+Karnataka,null,24,SHRI. Bache B.N. Gowda,CHIKBALLAPUR,CHIKBALLAPUR,17,9.5,7.5,0.05,0.35,1,2022-2023,25-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Karnataka,null,25,SHRI. L.S. Tejasvi Surya,BANGALORE SOUTH,BENGALURU URBAN,17,5,12,-4.56,0.07,2,2019-2020,10-02-2022,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Karnataka,null,26,SHRI. V. Srinivas Prasad,CHAMARAJANAGAR(SC),CHAMARAJNAGAR,17,9.5,7.5,0.2,0.46,1,2022-2023,21-12-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Karnataka,null,27,SHRI. Y Devendrappa,BELLARY(ST),BALLARI,17,7,10,0.43,0.89,1,2021-2022,27-12-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Utilisation Certificate Pending."
+Karnataka,null,28,Smt Mangal Suresh Angadi,BELGAUM,BELAGAVI,12,2,10,0.15,0.61,1,2021-2022,25-02-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",Eligible MPR not Received.
+Karnataka,null,29,Smt Sumalatha Ambareesh,MANDYA,MANDYA,17,9.5,7.5,0.23,1.54,1,2022-2023,15-02-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Kerala,8,1,Dr. M. P. Abdussamad Samadani,MALAPPURAM,MALAPPURAM,12,2,10,-4.55,1.45,1,2021-2022,21-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Kerala,null,2,ADV. Abdul Majeed Ariff,ALAPPUZHA,ALAPPUZHA,17,7,10,-3.8,0.74,1,2021-2022,14-02-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Kerala,null,3,ADV. Adoor Prakash,ATTINGAL,THIRUVANANTHAPURAM,17,7,10,-10.05,0.07,1,2021-2022,02-06-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Kerala,null,4,ADV. Dean Kuria kose,IDUKKI,IDUKKI,17,7,10,-6.23,3.69,1,2021-2022,30-06-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Kerala,null,5,Dr. Shashi Tharoor,THIRUVANANTHAPURAM,THIRUVANANTHAPURAM,17,7,10,-7.53,0.04,1,2021-2022,28-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Kerala,null,6,Ms RAMYA HARIDAS,ALATHUR(SC),PALAKKAD,17,7,10,-9.3,2.22,1,2021-2022,22-11-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Kerala,null,7,Shri Anto Antony,PATHANAMTHITTA,PATHANAMTHITTA,17,7,10,-8.16,0.07,1,2021-2022,23-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Kerala,null,8,Shri Behanan Benny,CHALAKUDY,ERNAKULAM,17,7,10,-7.77,3.31,1,2021-2022,30-01-2023,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Kerala,null,9,Shri E. T. Mohammed Basheer,PONNANI,MALAPPURAM,17,7,10,-7.72,2.56,1,2021-2022,21-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Kerala,null,10,Shri K. Muraleedharan,VADAKARA,KOZHIKODE,17,7,10,-5.43,3.5,1,2021-2022,22-11-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Kerala,null,11,Shri Kunhalikutty P.K.,MALAPPURAM,MALAPPURAM,5,5,0,0.7,0.85,2,2019-2020,14-06-2021,2.5,null,null,
+Kerala,null,12,Shri M. K. Raghavan,KOZHIKODE,KOZHIKODE,17,7,10,-7.18,1.99,1,2021-2022,18-11-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Kerala,null,13,Shri N.K. Premachandran,KOLLAM,KOLLAM,17,9.5,7.5,-6.82,2.22,1,2022-2023,30-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Kerala,null,14,Shri Rahul Gandhi,WAYANAD,WAYANAD,17,7,10,-7.29,1.28,1,2021-2022,14-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Kerala,null,15,Shri Suresh Kodikunnil,MAVELIKKARA(SC),KOLLAM,17,7,10,-7.87,4.8,1,2021-2022,29-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Kerala,null,16,Shri Thomas Chazhikadan,KOTTAYAM,KOTTAYAM,17,7,10,-5.71,0.02,1,2021-2022,13-05-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Kerala,null,17,SHRI. Hibi Eden,ERNAKULAM,ERNAKULAM,17,7,10,-9.63,1.63,1,2021-2022,03-10-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Kerala,null,18,SHRI. Kumbakudi Sudhakaran,KANNUR,KANNUR,17,7,10,-2.19,2.7,1,2021-2022,20-09-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Kerala,null,19,SHRI. Rajmohan Unnithan,KASARAGOD,KASARAGOD,17,7,10,-4.05,0.28,1,2021-2022,17-01-2023,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Kerala,null,20,SHRI. T N PRATHAPAN,THRISSUR,THRISSOOR,17,7,10,-8.67,2.04,1,2021-2022,30-11-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Kerala,null,21,SHRI. Vellalath Kochukrishnan Nair Sreekandan,PALAKKAD,PALAKKAD,17,7,10,-6.08,2.98,1,2021-2022,02-06-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Ladakh,8,1,SHRI. Jamyang Tsering Namgyal,LADAKH,LEH,17,7,10,0.87,0.87,1,2021-2022,26-07-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Lakshadweep,8,1,Shri Faizal P.P. Mohammed,LAKSHADWEEP(ST),LAKSHADWEEP,22,2.5,19.5,-1.35,0.66,1,2019-2020,13-03-2020,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,1 / 2018-2019,2 / 2018-2019,2 / 2022-2023,2 / 2019-2020",Eligible MPR not Received.
+Madhya Pradesh,8,1,Dr Krishna Pal Singh Yadav,GUNA,ASHOK NAGAR,17,7,10,0,0,1,2021-2022,30-05-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Madhya Pradesh,null,2,Dr. Dhal Singh Bisen,BALAGHAT,BALAGHAT,17,12,5,0.27,0.4,2,2022-2023,31-01-2023,2.5,null,1 / 2023-2024,
+Madhya Pradesh,null,3,Dr. Virendra Kumar,TIKAMGARH(SC),TIKAMGARH,17,9.5,7.5,0.03,2.22,1,2022-2023,23-12-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Madhya Pradesh,null,4,Shri Chhatar Singh Darbar,DHAR(ST),DHAR,17,9.5,7.5,-0.34,0.8,1,2022-2023,15-02-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Madhya Pradesh,null,5,Shri Faggan Singh Kulaste,MANDLA(ST),MANDLA,17,9.5,7.5,0.04,0.9,1,2022-2023,23-12-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Madhya Pradesh,null,6,Shri Gajendra Singh Patel,KHARGONE(ST),KHARGAON,17,7,10,0.24,0.79,1,2021-2022,14-02-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Madhya Pradesh,null,7,Shri Ganesh Singh,SATNA,SATNA,17,9.5,7.5,-0.11,0,1,2022-2023,02-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Madhya Pradesh,null,8,Shri Gyaneshwar Patil,KHANDWA,KHANDWA,24,4.5,19.5,-0.05,0.65,1,2022-2023,27-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Madhya Pradesh,null,9,Shri Janardan Mishra,REWA,REWA,17,9.5,7.5,0.06,1.78,1,2022-2023,21-10-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Madhya Pradesh,null,10,Shri Nakul K. Nath,CHHINDWARA,CHHINDWARA,17,9.5,7.5,-1.09,1.28,1,2022-2023,29-06-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Madhya Pradesh,null,11,Shri Narendra Singh Tomar,MORENA,MORENA,17,7,10,-0.32,1.7,1,2021-2022,27-01-2023,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Madhya Pradesh,null,12,Shri Prahlad Singh Patel,DAMOH,DAMOH,17,9.5,7.5,-0.85,1.8,1,2022-2023,27-06-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Madhya Pradesh,null,13,Shri Rajbahadur Singh,SAGAR,SAGAR,17,7,10,0.75,1.54,1,2021-2022,31-01-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Madhya Pradesh,null,14,Shri Rakesh Singh,JABALPUR,JABALPUR,17,2.5,14.5,-0.78,0.88,1,2019-2020,31-10-2019,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2019-2020,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Madhya Pradesh,null,15,Shri Ramakant Bhargava,VIDISHA,RAISEN,17,7,10,0.3,0.62,1,2021-2022,09-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Madhya Pradesh,null,16,Shri Rodmal Nagar,RAJGARH,RAJGARH,17,9.5,7.5,0.65,1.06,1,2022-2023,02-06-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Madhya Pradesh,null,17,Shri Shankar Lalwani,INDORE,INDORE,17,9.5,7.5,-0.54,0.95,1,2022-2023,21-02-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Madhya Pradesh,null,18,Shri Sudheer Gupta,MANDSOUR,MANDSAUR,17,7,10,0.45,0.6,1,2021-2022,14-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Madhya Pradesh,null,19,Shri Uday Pratap Singh,HOSHANGABAD,HOSHANGABAD,17,9.5,7.5,0.11,1.03,1,2022-2023,08-06-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Madhya Pradesh,null,20,Shri Vivek Narayan Shejwalkar,GWALIOR,GWALIOR,17,9.5,7.5,-3.27,0.41,1,2022-2023,20-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Madhya Pradesh,null,21,SHRI. Anil Firojiya,UJJAIN(SC),UJJAIN,17,9.5,7.5,-2.26,0.19,1,2022-2023,13-09-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Madhya Pradesh,null,22,SHRI. Durga Das Uikey,BETUL(ST),BETUL,17,12,5,0.3,2.23,2,2022-2023,23-12-2022,2.5,null,1 / 2023-2024,
+Madhya Pradesh,null,23,SHRI. Guman Singh Damor,RATLAM(ST),JHABUA,17,9.5,7.5,-4.07,0.22,1,2022-2023,17-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Madhya Pradesh,null,24,SHRI. Mahendra Singh Solanky,DEWAS(SC),DEWAS,17,9.5,7.5,0.15,0.61,1,2022-2023,19-12-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Madhya Pradesh,null,25,SHRI. Vishnu Dutt Sharma,KHAJURAHO,PANNA,17,7,10,0.55,1.51,1,2021-2022,08-02-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Madhya Pradesh,null,26,Smt Himadri Singh,SHAHDOL (ST),ANUPPUR,17,9.5,7.5,0.12,0.58,1,2022-2023,02-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Madhya Pradesh,null,27,Smt Sandhya Ray,BHIND(SC),BHIND,17,9.5,7.5,0.62,2.65,1,2022-2023,18-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Madhya Pradesh,null,28,Smt. Pragya Singh Thakur,BHOPAL,SEHORE,17,9.5,7.5,-0.03,0.19,1,2022-2023,02-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Madhya Pradesh,null,29,Smt. Riti Pathak,SIDHI,SIDHI,17,5,12,-0.12,0.13,2,2019-2020,28-03-2021,2.5,null,"1 / 2022-2023,1 / 2021-2022,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Maharashtra,8,1,Syed Shri Imtiaz Jaleel,AURANGABAD,AURANGABAD,17,9.5,7.5,-5.32,0.96,1,2022-2023,02-08-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Maharashtra,null,2,Dr Bharti Pravin Pawar,DINDORI(ST),NASHIK,17,7,10,-3.93,1.31,1,2021-2022,20-09-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Maharashtra,null,3,Dr Heena Vijaykumar Gavit,NANDURBAR(ST),NANDURBAR,17,7,10,-0.01,1.08,1,2021-2022,08-08-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Maharashtra,null,4,Dr Pritam Gopinath Munde,BEED,BEED,17,5,12,0.16,2.71,2,2019-2020,27-09-2022,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Maharashtra,null,5,Dr Sujay Radhakrishna Vikhepatil,AHMEDNAGAR,AHMADNAGAR,17,9.5,7.5,-1.66,2.04,1,2022-2023,30-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Maharashtra,null,6,Dr. Amol Ramsing Kolhe,SHIRUR,PUNE,17,7,10,-5.83,1.3,1,2021-2022,12-09-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Maharashtra,null,7,Dr. Jaisidheshwar Shivachary Mahaswamiji,SOLAPUR(SC),SOLAPUR,17,5,12,-0.33,1.32,2,2019-2020,24-08-2021,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Maharashtra,null,8,Dr. Shrikant Eknath Shinde,KALYAN,THANE,17,9.5,7.5,-0.19,2.69,1,2022-2023,30-11-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Maharashtra,null,9,Dr. Subhash Ramrao Bhamre,DHULE,DHULE,17,9.5,7.5,-2.22,2.53,1,2022-2023,30-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Maharashtra,null,10,Ms. Bhavana Gawali (Patil),YAVATMAL-WASHIM,WASIM,17,5,12,-0.21,0.44,2,2019-2020,25-03-2021,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Maharashtra,null,11,Shri Arvind Ganpat Sawant,MUMBAI SOUTH,MUMBAI CITY,17,7,10,-6.99,1.09,1,2021-2022,04-02-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",Eligible MPR not Received.
+Maharashtra,null,12,Shri Ashok Mahadeorao Nete,GADCHIROLI-CHIMUR(ST),GARCHIROLI,17,9.5,7.5,0.79,2.05,1,2022-2023,30-11-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Maharashtra,null,13,Shri Balubhau (Alias Suresh Narayan) Dhanorkar,CHANDRAPUR,CHANDRAPUR,17,9.5,7.5,0.19,1.09,1,2022-2023,07-02-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Maharashtra,null,14,Shri Dhairyasheel Sambhajirao Mane,HATKANANGLE,KOLHAPUR,17,7,10,-5.73,0.62,1,2021-2022,28-03-2023,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Maharashtra,null,15,Shri Gajanan Chandrakant Kirtikar,MUMBAI NORTH WEST,MUMBAI SUBURBAN,17,9.5,7.5,-2.66,2.82,1,2022-2023,28-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Maharashtra,null,16,Shri Girish Bhalchandra Bapat,PUNE,PUNE,12,7,5,-3.38,0.13,1,2021-2022,12-09-2022,2,null,"1 / 2022-2023,2 / 2022-2023",
+Maharashtra,null,17,Shri Gopal Chinayya Shetty,MUMBAI NORTH,MUMBAI SUBURBAN,17,9.5,7.5,-2.28,1.43,1,2022-2023,28-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Maharashtra,null,18,Shri Hemant Patil,HINGOLI,HINGOLI,17,7,10,-1.67,2.44,1,2021-2022,02-06-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Maharashtra,null,19,Shri Hemant Tukaram Godse,NASHIK,NASHIK,17,7,10,-4.76,0.21,1,2021-2022,20-09-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Maharashtra,null,20,Shri Kapil Moreshwar Patil,BHIWANDI,THANE,17,9.5,7.5,0.51,2.51,1,2022-2023,30-11-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Maharashtra,null,21,Shri Krupal Balaji Tumane,RAMTEK(SC),NAGPUR,17,7,10,-3.75,0.14,1,2021-2022,20-09-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Maharashtra,null,22,Shri Manoj Kishorbhai Kotak,MUMBAI NORTH EAST,MUMBAI SUBURBAN,17,7,10,-5.09,0.17,1,2021-2022,08-02-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",Eligible MPR not Received.
+Maharashtra,null,23,Shri Nitin Jairam Gadkari,NAGPUR,NAGPUR,17,7,10,-5.21,0.35,1,2021-2022,27-06-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Maharashtra,null,24,Shri Omprakash Bhupalsinh alias Pawan Rajenimbalkar,OSMANABAD,OSMANABAD,17,2.5,14.5,-0.79,0.9,1,2019-2020,06-02-2020,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2019-2020,2 / 2022-2023",
+Maharashtra,null,25,Shri Prataprao Govindrao Patil Chikhalikar,NANDED,NANDED,17,7,10,-1.89,2.15,1,2021-2022,30-05-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Maharashtra,null,26,Shri Prataprao Jadhav,BULDHANA,BULDANA,17,5,12,-6.96,0.35,2,2019-2020,03-11-2021,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Maharashtra,null,27,Shri Rahul Ramesh Shewale,MUMBAI SOUTH CENTRAL,MUMBAI SUBURBAN,17,7,10,-4.97,2.83,1,2021-2022,08-02-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Maharashtra,null,28,Shri Rajan Baburao Vichare,THANE,THANE,17,7,10,-2.71,1.83,1,2021-2022,09-06-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Maharashtra,null,29,Shri Rajendra Dhedya Gavit,PALGHAR(ST),Palghar,19.5,9.5,10,-7.26,0.81,2,2017-2018,14-10-2022,2.5,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Maharashtra,null,30,Shri Ramdas Chandrabhanji Tadas,WARDHA,WARDHA,17,9.5,7.5,-2.24,1.61,1,2022-2023,30-11-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Maharashtra,null,31,Shri Ranjeetsinha Hindurao Naik Nimbalkar,MADHA,SATARA,17,7,10,-1.64,1.79,1,2021-2022,07-02-2023,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Maharashtra,null,32,Shri Raosaheb Patil Danve,JALNA,JALNA,17,5,12,-3.57,1.49,2,2019-2020,29-09-2022,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Maharashtra,null,33,Shri Sadashiv Kisan Lokhande,SHIRDI(SC),AHMADNAGAR,17,9.5,7.5,-3.05,1.81,1,2022-2023,07-02-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Maharashtra,null,34,Shri Sanjay Haribhau Jadhav,PARBHANI,PARBHANI,17,7,10,-1.06,2.06,1,2021-2022,07-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",Eligible MPR not Received.
+Maharashtra,null,35,Shri Sanjay Sadashivrao Mandlik,KOLHAPUR,KOLHAPUR,17,7,10,-6.87,0.03,1,2021-2022,22-06-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Maharashtra,null,36,Shri Sanjay Shamrao Dhotre,AKOLA,AKOLA,17,9.5,7.5,-2.23,0.56,1,2022-2023,15-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Maharashtra,null,37,Shri Sanjay(Kaka) Ramchandra Patil,SANGLI,SANGLI,17,5,12,-1.59,0.26,2,2019-2020,29-08-2022,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Maharashtra,null,38,Shri Shriniwas Dadasaheb Patil,SATARA,SATARA,34,5,29,-10.1,0,1,2019-2020,29-03-2021,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Maharashtra,null,39,Shri Shrirang Appa Barne,MAVAL,PUNE,17,7,10,-7.26,0.84,1,2021-2022,14-10-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Maharashtra,null,40,Shri Sudhakar Tukaram Shrangre,LATUR(SC),LATUR,17,9.5,7.5,-6.39,0.02,1,2022-2023,21-10-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Maharashtra,null,41,Shri Sunil Baburao Mendhe,BHANDARA-GONDIYA,GONDIA,17,5,12,-7.01,2.54,2,2019-2020,26-03-2021,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",Provisional Utilisation Certificate Pending.
+Maharashtra,null,42,Shri Sunil Dattatray Tatkare,RAIGAD,RAIGAD,17,7,10,-4.73,3.63,1,2021-2022,04-02-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",Eligible MPR not Received.
+Maharashtra,null,43,Shri Unmesh Bhaiyyasaheb Patil,JALGAON,JALGAON,17,7,10,-1.83,2.08,1,2021-2022,29-06-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",Eligible MPR not Received.
+Maharashtra,null,44,Shri Vinayak Bhaurao Raut,RATNAGIRI-SINDHUDURG,RATNAGIRI,17,9.5,7.5,-5.78,2.58,1,2022-2023,30-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Maharashtra,null,45,Smt Navneet Ravi Rana,AMRAVATI(SC),AMRAVATI,17,9.5,7.5,-1.54,1.97,1,2022-2023,07-02-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Maharashtra,null,46,Smt. Poonam (Mahajan) Vajendla Rao,MUMBAI NORTH-CENTRAL,MUMBAI SUBURBAN,17,9.5,7.5,-2.64,1.47,1,2022-2023,28-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Maharashtra,null,47,Smt. Raksha Nikhil Khadse,RAVER,JALGAON,17,7,10,0.35,1.33,1,2021-2022,07-03-2023,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Maharashtra,null,48,Smt. Supriya Sadanand Sule,BARAMATI,PUNE,17,9.5,7.5,-4.28,1.92,1,2022-2023,29-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Manipur,8,1,Dr. Lorho S. Pfoze,OUTER MANIPUR(ST),SENAPATI,17,9.5,7.5,0.04,0.05,1,2022-2023,27-09-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Manipur,null,2,Dr. Ranjan Singh Rajkumar,INNER MANIPUR,IMPHAL EAST,17,7,10,0.14,0.14,1,2021-2022,29-11-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Meghalaya,8,1,Kum. Agatha K. Sangma,TURA,WEST GARO HILLS,17,7,10,0.38,0.55,1,2021-2022,11-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Meghalaya,null,2,Shri Vincent H Pala,SHILLONG,EAST KHASI HILLS,17,9.5,7.5,0.31,0.67,1,2022-2023,30-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Mizoram,8,1,SHRI. C Lalrosanga,MIZORAM (ST),AIZAWL,17,9.5,7.5,0.04,0.22,1,2022-2023,09-11-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Nagaland,8,1,Shri Tokheho Yepthomi,NAGALAND,DIMAPUR,17,12,5,0.03,0,2,2022-2023,28-10-2022,2.5,null,1 / 2023-2024,
+Odisha,8,1,Dr Rajashree Mallick,JAGATSINGHPUR(SC),CUTTACK,17,7,10,0.96,2.83,1,2021-2022,30-06-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Odisha,null,2,Ms Chandrani Murmu,KEONJHAR(ST),KEONJHAR,17,7,10,0.97,2.3,1,2021-2022,19-01-2023,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Odisha,null,3,Shri Achyutananda Samanta,KANDHAMAL,KANDHAMAL,17,9.5,7.5,0.87,1.56,1,2022-2023,20-02-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Odisha,null,4,Shri Anubhav Mohanty,KENDRAPARA,KENDRAPARA,17,9.5,7.5,0.07,2.18,1,2022-2023,23-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Odisha,null,5,Shri Basanta Kumar Panda,KALAHANDI,KALAHANDI,17,7,10,0.25,1.2,1,2021-2022,13-05-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Odisha,null,6,Shri Bhartruhari Mahtab,CUTTACK,CUTTACK,17,9.5,7.5,0.54,2.79,1,2022-2023,30-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Odisha,null,7,Shri Chandra Sekhar Sahu,BERHAMPUR,GANJAM,17,9.5,7.5,0.72,2.62,1,2022-2023,30-11-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Odisha,null,8,Shri Jual Oram,SUNDARGARH (ST),SUNDARGARH,17,7,10,0.19,1.61,1,2021-2022,23-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Odisha,null,9,Shri Mahesh Sahoo,DHENKANAL,DHENKANAL,17,9.5,7.5,-0.36,0.9,1,2022-2023,28-11-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Odisha,null,10,Shri Nitesh Ganga Deb,SAMBALPUR,SAMBALPUR,17,9.5,7.5,0.05,2.46,1,2022-2023,10-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Odisha,null,11,Shri Pinaki Misra,PURI,PURI,17,7,10,0.81,1.12,1,2021-2022,23-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Odisha,null,12,Shri Pratap Chandra Sarangi,BALASORE,BALASORE,17,7,10,0.09,2.81,1,2021-2022,23-01-2023,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Odisha,null,13,Shri Ramesh Chandra Majhi,NABARANGPUR(ST),NABARANGPUR,17,9.5,7.5,0.36,1.86,1,2022-2023,30-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Odisha,null,14,Shri Saptagiri Sankar Ulaka,KORAPUT(ST),RAYAGADA,17,9.5,7.5,0.67,0.76,1,2022-2023,17-10-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Odisha,null,15,Shri Suresh Pujari,BARGARH,BARAGARH,17,9.5,7.5,0.01,2.12,1,2022-2023,31-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Odisha,null,16,SHRI. Bishweswar Tudu,MAYURBHANJ (ST),MAYURBHANJ,17,9.5,7.5,0.21,2.65,1,2022-2023,30-11-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Odisha,null,17,Smt. Aparajita Sarangi,BHUBANESWAR,KHORDHA,17,9.5,7.5,0.76,0.98,1,2022-2023,28-11-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Odisha,null,18,Smt. Manjulata Mandal,BHADRAK(SC),BHADRAK,17,12,5,0.01,2.19,2,2022-2023,17-01-2023,2.5,null,1 / 2023-2024,
+Odisha,null,19,Smt. Pramila Bisoyi,ASKA,GANJAM,17,9.5,7.5,0.1,2.8,1,2022-2023,03-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Odisha,null,20,Smt. Sangeeta Kumari Singh Deo,BOLANGIR,BOLANGIR,17,5,12,-3.64,2.89,2,2019-2020,01-03-2023,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Odisha,null,21,Smt. Sarmistha Sethi,JAJPUR(SC),JAJPUR,17,9.5,7.5,0.07,2.05,1,2022-2023,03-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Puducherry,8,1,Shri Vaithilingam Ve.,PONDICHERRY,PONDICHERRY,17,7,10,-4.84,1.94,1,2021-2022,03-01-2023,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Punjab,8,1,Dr. Amar Singh,FATEHGARH SAHIB(SC),FATEHGARH SAHIB,17,9.5,7.5,0.12,2.78,1,2022-2023,16-02-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Punjab,null,2,Shri Gurjeet Singh Aujla,AMRITSAR,AMRITSAR,17,12,5,0.93,1.86,2,2022-2023,31-03-2023,2.5,null,1 / 2023-2024,
+Punjab,null,3,Shri Jasbir Singh Gill,KHADOOR SAHIB,TARN TARAN,17,9.5,7.5,0.01,1.94,1,2022-2023,14-12-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Punjab,null,4,Shri Manish Tewari,ANANDPUR SAHIB,RUPNAGAR,17,9.5,7.5,0.75,2.87,1,2022-2023,09-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Punjab,null,5,Shri Ravneet Singh,LUDHIANA,LUDHIANA,17,7,10,0.68,2.71,1,2021-2022,21-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Bank Statement Awaited, Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Punjab,null,6,Shri Santokh Singh Chaudhary,JALANDHAR(SC),JALANDHAR,17,7,10,2.39,4.88,1,2021-2022,27-06-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Punjab,null,7,Shri Simranjit Singh Mann,SANGRUR,SANGRUR,20,2.5,17.5,0.91,2.25,1,2022-2023,26-08-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023",Eligible MPR not Received.
+Punjab,null,8,Shri Som Parkash,HOSHIARPUR(SC),HOSHIARPUR,17,7,10,-0.36,1.57,1,2021-2022,18-05-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Bank Statement Awaited, Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Punjab,null,9,Shri Sukhbir Singh Badal,FIROZPUR,Fazilka,17,9.5,7.5,0.12,1.73,1,2022-2023,24-11-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Punjab,null,10,Shri Sunny Deol,GURDASPUR,GURDASPUR,17,7,10,0.06,1.37,1,2021-2022,14-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Bank Statement Awaited, Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Punjab,null,11,SHRI. Mohammad Sadique,FARIDKOT(SC),FARIDKOT,17,9.5,7.5,0.63,2.89,1,2022-2023,07-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Punjab,null,12,Smt Harsimrat Kaur Badal,BHATINDA,BHATINDA,17,7,10,0.91,1.76,1,2021-2022,21-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Bank Statement Awaited, Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Punjab,null,13,Smt. Preneet Kaur,PATIALA,PATIALA,17,7,10,0.02,0.58,1,2021-2022,10-05-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Bank Statement Awaited, Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Rajasthan,8,1,Dr. Manoj Rajoria,KARAULI-DHOLPUR(SC),KARAULI,19.5,5,14.5,1.36,2.95,2,2019-2020,22-03-2021,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,1 / 2018-2019,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Rajasthan,null,2,Ms. Diya Kumari,RAJSAMAND,RAJSAMAND,17,7,10,0.85,0.88,1,2021-2022,23-08-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Rajasthan,null,3,Shri Arjun Ram Meghwal,BIKANER(SC),BIKANER,17,9.5,7.5,0.82,4.12,1,2022-2023,24-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Rajasthan,null,4,Shri Arjunlal Meena,UDAIPUR(ST),UDAIPUR,17,7,10,0.02,0.85,1,2021-2022,02-01-2023,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Rajasthan,null,5,Shri Balak Nath,ALWAR,ALWAR,17,12,5,0.04,2.42,2,2022-2023,30-03-2023,2.5,null,1 / 2023-2024,
+Rajasthan,null,6,Shri Bhagirath Chaudhary,AJMER,AJMER,17,7,10,-2.51,2.36,1,2021-2022,28-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Rajasthan,null,7,Shri Chandra Prakash Joshi,CHITTORGARH,CHITTORGARH,17,7,10,0.26,1.33,1,2021-2022,25-01-2023,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Rajasthan,null,8,Shri Devji Mansingram Patel,JALORE,JALORE,17,9.5,7.5,0.53,0.53,1,2022-2023,21-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Rajasthan,null,9,Shri Dushyant Singh,JHALAWAR-BARAN,JHALAWAR,17,5,12,0.08,2.14,2,2019-2020,24-03-2021,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Rajasthan,null,10,Shri Gajendra Singh Shekhawat,JODHPUR,JODHPUR,22,7,15,0.36,1.41,1,2021-2022,18-11-2022,2,null,"1 / 2022-2023,1 / 2023-2024,1 / 2018-2019,2 / 2022-2023",
+Rajasthan,null,11,Shri Hanuman Beniwal,NAGAUR,NAGAUR,17,7,10,-1.59,0.14,1,2021-2022,13-09-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Rajasthan,null,12,Shri Kanakmal Katara,BANSWARA(ST),BANSWARA,17,9.5,7.5,-3.77,2.3,1,2022-2023,24-02-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Rajasthan,null,13,Shri Narendra Kumar,JHUNJHUNU,JHUNJHUNU,17,9.5,7.5,-1.12,2.33,1,2022-2023,16-02-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Rajasthan,null,14,Shri Nihal Chand Chauhan,GANGANAGAR(SC),SRIGANGANAGAR,17,7,10,-0.28,2.27,1,2021-2022,03-06-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Rajasthan,null,15,Shri Om Birla,KOTA,KOTA,19.5,5,14.5,-0.39,2.93,2,2019-2020,13-09-2022,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2018-2019,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Rajasthan,null,16,Shri P.P. Chaudhary,PALI,PALI,17,7,10,-0.66,1.65,1,2021-2022,02-08-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Rajasthan,null,17,Shri Rahul Kaswan,CHURU,CHURU,17,9.5,7.5,0.07,2.45,1,2022-2023,15-12-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Rajasthan,null,18,Shri Rajyavardhan Singh Rathore,JAIPUR RURAL,JAIPUR,17,5,12,-1.84,1.5,2,2019-2020,28-03-2023,2.5,null,"1 / 2022-2023,1 / 2021-2022,1 / 2023-2024,2 / 2022-2023",
+Rajasthan,null,19,Shri Ramcharan Bohra,JAIPUR,JAIPUR,17,7,10,-0.67,1.56,1,2021-2022,17-01-2023,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Rajasthan,null,20,Shri Subhash Chandra Baheria,BHILWARA,BHILWARA,17,5,12,-0.97,0.06,2,2019-2020,14-06-2021,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Rajasthan,null,21,Shri Sukhbir Singh Jaunapuria,TONK-SAWAI MADHOPUR,TONK,17,7,10,0.14,2.92,1,2021-2022,24-01-2023,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Rajasthan,null,22,Shri Sumedhanand Saraswati,SIKAR,SIKAR,17,9.5,7.5,0.33,1.69,1,2022-2023,02-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Rajasthan,null,23,SHRI. Kailash Choudhary,BARMER,BARMER,17,9.5,7.5,-0.7,1.42,1,2022-2023,13-09-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Rajasthan,null,24,Smt Ranjeeta Koli,BHARATPUR(SC),BHARATPUR,17,7,10,-0.11,1.43,1,2021-2022,24-02-2023,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Rajasthan,null,25,Smt. Jaskaur Meena,DAUSA(ST),DAUSA,17,7,10,0.02,0.08,1,2021-2022,16-02-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Sikkim,8,1,Shri Indra Hang Subba,SIKKIM,EAST DISTRICT,17,7,10,0.18,0.18,1,2021-2022,21-02-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Tamil Nadu,8,1,Dr A Chellakumar,KRISHNAGIRI,KRISHNAGIRI,17,7,10,-5.2,2.73,1,2021-2022,15-03-2023,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Tamil Nadu,null,2,Dr K Jayakumar,TIRUVALLUR(SC),TIRUVALLUR,17,5,12,-7.07,0.71,2,2019-2020,06-07-2021,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Tamil Nadu,null,3,Dr T. R. Paarivendhar,PERAMBALUR,PERAMBALUR,17,7,10,-4.36,1.08,1,2021-2022,21-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Tamil Nadu,null,4,Dr. M.K. Vishnu Prasad,ARANI,TIRUVANNAMALAI,17,12,5,-3.98,0.59,2,2022-2023,17-01-2023,2.5,null,1 / 2023-2024,
+Tamil Nadu,null,5,Dr. V. Kalanidhi,CHENNAI NORTH,CHENNAI,17,5,12,-5.81,0.03,2,2019-2020,14-06-2021,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Tamil Nadu,null,6,Shri A. Ganeshamurthi,ERODE,ERODE,17,7,10,-5.28,0.17,1,2021-2022,03-06-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Tamil Nadu,null,7,Shri A.K.P. Chinraj,NAMAKKAL,NAMAKKAL,17,7,10,-4.74,2.83,1,2021-2022,14-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Tamil Nadu,null,8,Shri Andimuthu Raja,NILGIRIS(SC),NILGIRIS,17,7,10,-3.69,0.41,1,2021-2022,28-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Tamil Nadu,null,9,Shri C.N. Annadurai,TIRUVANNAMALAI,TIRUVANNAMALAI,17,12,5,-4.75,1.48,2,2022-2023,20-01-2023,2.5,null,1 / 2023-2024,
+Tamil Nadu,null,10,Shri Dhanush M Kumar,TENKASI(SC),Tenkasi,17,5,12,-6.01,0.28,2,2019-2020,23-03-2022,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Tamil Nadu,null,11,Shri DNV Senthilkumar. S.,DHARAMAPURI,DHARMAPURI,17,9.5,7.5,-0.37,2.36,1,2022-2023,15-02-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Tamil Nadu,null,12,Shri Ganesan Selvam,KANCHEEPURAM(SC),KANCHIPURAM,17,9.5,7.5,-5.2,0.59,1,2022-2023,15-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Tamil Nadu,null,13,Shri Gautham Sigamani Pon,KALLAKURICHI,KALLAKURICHI,17,7,10,-4.68,1.16,1,2021-2022,21-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Tamil Nadu,null,14,Shri K. Shanmuga Sundaram,POLLACHI,COIMBATORE,17,7,10,-2.59,0.44,1,2021-2022,21-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Tamil Nadu,null,15,Shri K. Subbarayan,TIRUPPUR,TIRUPUR,17,7,10,-2.97,0.9,1,2021-2022,03-06-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Tamil Nadu,null,16,Shri Kani K. Navas,RAMANATHAPURAM,RAMANATHAPURAM,17,5,12,-6.2,0.71,2,2019-2020,06-08-2021,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Tamil Nadu,null,17,Shri Manickam Tagore B,VIRUDHUNAGAR,VIRUDHUNAGAR,17,7,10,-0.6,0.97,1,2021-2022,18-05-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Tamil Nadu,null,18,Shri P. Raveendranath Kumar,THENI,THENI,17,7,10,-8.29,1.01,1,2021-2022,02-08-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Tamil Nadu,null,19,Shri P. Velusamy,DINDIGUL,DINDIGUL,17,7,10,-4.36,0.08,1,2021-2022,23-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Tamil Nadu,null,20,Shri P.R. Natarajan,COIMBATORE,COIMBATORE,17,7,10,-7.15,1.7,1,2021-2022,30-03-2023,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Tamil Nadu,null,21,Shri S. Gnanathiraviam,TIRUNELVELI,TIRUNELVELI,17,7,10,-8.66,0.3,1,2021-2022,17-10-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Tamil Nadu,null,22,Shri S. Jagathrakshakan,ARAKKONAM,VELLORE,17,7,10,-2.28,0.69,1,2021-2022,02-06-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Tamil Nadu,null,23,Shri S. Ramalingam,MAYILADUTHURAI,THANJAVUR,17,5,12,-9.97,0.18,2,2019-2020,06-07-2021,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Tamil Nadu,null,24,Shri S. Venkatesan,MADURAI,MADURAI,17,5,12,-10.11,0.91,2,2019-2020,03-10-2022,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Tamil Nadu,null,25,Shri S.R. Parthiban,SALEM,SALEM,17,9.5,7.5,-6.08,0.37,1,2022-2023,07-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Tamil Nadu,null,26,Shri S.S. Palanimanickam,THANJAVUR,THANJAVUR,17,7,10,-2.52,2.52,1,2021-2022,14-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Tamil Nadu,null,27,Shri Su Thirunavukkarasar,TIRUCHIRAPPALLI,TIRUCHIRAPPALLI,17,9.5,7.5,-1.87,0.03,1,2022-2023,31-08-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Tamil Nadu,null,28,Shri T.R.V.S. Ramesh,CUDDALORE,CUDDALORE,17,9.5,7.5,-1.53,0.58,1,2022-2023,19-12-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Tamil Nadu,null,29,Shri Thalikkottai Rajuthevar Baalu,SRIPERUMBUDUR,KANCHIPURAM,17,7,10,-6.63,1.13,1,2021-2022,09-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Tamil Nadu,null,30,Shri Thirumaa Valavan Thol,CHIDAMBARAM(SC),ARIYALUR,17,9.5,7.5,-1.35,0.2,1,2022-2023,10-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Tamil Nadu,null,31,SHRI. D Ravikumar,VILUPPURAM(SC),VILLUPURAM,17,9.5,7.5,-2.25,1.74,1,2022-2023,02-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Tamil Nadu,null,32,SHRI. Dayanidhi Maran,CHENNAI CENTRAL,CHENNAI,17,7,10,-8.06,0.18,1,2021-2022,29-03-2023,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Tamil Nadu,null,33,SHRI. DM Kathir Anand,VELLORE,VELLORE,14.5,7,7.5,0.42,1.38,1,2022-2023,18-11-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Tamil Nadu,null,34,SHRI. Karti P Chidambaram,SIVAGANGA,SIVAGANGA,17,7,10,-3.47,0.05,1,2021-2022,29-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Tamil Nadu,null,35,SHRI. M Selvaraj,NAGAPATTINAM(SC),THIRUVARUR,17,9.5,7.5,-3.86,1.14,1,2022-2023,15-02-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Tamil Nadu,null,36,SHRI. Vijayakumar alias Vijay Vasanth,KANNIYAKUMARI,KANNIYAKUMARI,24,2,22,-4.71,0.24,1,2021-2022,05-08-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Tamil Nadu,null,37,Smt S. Jothimani,KARUR,KARUR,17,9.5,7.5,-3.08,0.18,1,2022-2023,30-12-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Tamil Nadu,null,38,Smt. Kanimozhi Karunanidhi,THOOTHUKKUDI,TUTICORIN,17,7,10,-6.75,0.55,1,2021-2022,16-12-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Tamil Nadu,null,39,Smt. T. Sumathy (A) Thamizhachi Thangapandian,CHENNAI SOUTH,CHENNAI,17,7,10,-6.61,2.28,1,2021-2022,28-03-2023,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Telangana,8,1,Dr. Gaddam Ranjith Reddy,CHELVELLA,RANGAREDDY,17,7,10,-3.72,2.38,1,2021-2022,13-01-2023,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Telangana,null,2,Shri Anumula Revanth Reddy,MALKAJGIRI,MEDCHAL MALKAJGIRI,17,7,10,0.79,2.72,1,2021-2022,20-09-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Telangana,null,3,Shri Arvind Dharmapuri,NIZAMABAD,NIZAMABAD,17,5,12,-10.71,0.99,2,2019-2020,24-03-2021,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Telangana,null,4,Shri Asaduddin Owaisi,HYDERABAD,HYDERABAD,19.5,7,12.5,-3.62,1.18,1,2021-2022,26-12-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2018-2019,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Telangana,null,5,Shri Bheemrao Baswanthrao Patil,ZAHIRABAD,Kamarreddy,17,7,10,-0.58,2.84,1,2021-2022,29-08-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Telangana,null,6,Shri Dayakar Pasunoori,WARANGEL(SC),Hanumakonda,17,7,10,-2.62,1.83,1,2021-2022,17-08-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Telangana,null,7,Shri Kishan Reddy Gangapuram,SECUNDERABAD,HYDERABAD,17,7,10,-6.95,2.43,1,2021-2022,21-12-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Telangana,null,8,Shri Kotha Prabhakar Reddy,MEDAK,SANGAREDDY,17,7,10,-9.41,1.32,1,2021-2022,30-06-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Telangana,null,9,Shri Manne Srinivas Reddy,MAHABUBNAGAR,MAHBUBNAGAR,19.5,7,12.5,-5.04,0,1,2021-2022,28-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2018-2019,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Telangana,null,10,Shri Nama Nageswara Rao,KHAMMAM,KHAMMAN,17,7,10,0.68,2.84,1,2021-2022,30-11-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Telangana,null,11,Shri Ramulu Pothuganti,NAGARKURNOOL(SC),NAGARKURNOOL,17,9.5,7.5,-1.97,1,1,2022-2023,30-12-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Telangana,null,12,Shri Sanjay Kumar Bandi,KARIMNAGAR,KARIMNAGAR,17,5,12,-4.27,0.2,2,2019-2020,27-03-2021,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Telangana,null,13,Shri Uttam Kumar Nalamada Reddy,NALGONDA,Suryapet,17,7,10,-2.18,2.43,1,2021-2022,25-02-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Telangana,null,14,Shri Venkatesh Netha Borlakunta,PEDDAPALLE,Mancherial,17,7,10,0.61,2.11,1,2021-2022,14-09-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Telangana,null,15,SHRI. Komati Reddy Venkat Reddy,BHONGIR,Yadadri Bhuvanagiri,17,7,10,0.12,0.37,1,2021-2022,23-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Telangana,null,16,SHRI. Soyam Babu Rao,ADILABAD(ST),ADILABAD,17,9.5,7.5,0.07,2.95,1,2022-2023,13-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Telangana,null,17,Smt. Kavitha Malothu,MAHABUBABAD,MAHABUBABAD,17,7,10,0.26,1.81,1,2021-2022,28-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Tripura,8,1,Ms Pratima Bhoumik,TRIPURA WEST,WEST TRIPURA,17,5,12,0.18,2.62,2,2019-2020,23-03-2021,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Tripura,null,2,Shri Rebati Tripura,TRIPURA EAST(ST),DHALAI DISTRICT,34.5,24.5,10,16.58,17.72,2,2015-2016,04-11-2022,2.5,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Uttar Pradesh,8,1,General Dr.Vijay Kumar Singh Retd.,GHAZIABAD,GHAZIABAD,17,9.5,7.5,-0.06,3.82,1,2022-2023,30-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Uttar Pradesh,null,2,Haji Fazlur Rehman,SAHARANPUR,SAHARANPUR,17,9.5,7.5,0.46,1.83,1,2022-2023,17-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Utilisation Certificate Pending."
+Uttar Pradesh,null,3,Dr Chandra Sen Jadon,FIROZABAD,FIROZABAD,17,12,5,0.03,0.67,2,2022-2023,15-02-2023,2.5,null,1 / 2023-2024,
+Uttar Pradesh,null,4,Dr Ramesh Chand Bind,BHADOHI,Bhadohi,17,9.5,7.5,0.86,1.39,1,2022-2023,30-12-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Utilisation Certificate Pending."
+Uttar Pradesh,null,5,Dr. Mahendra Nath Pandey,CHANDAULI,CHANDAULI,17,9.5,7.5,0.89,0.89,1,2022-2023,17-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Utilisation Certificate Pending."
+Uttar Pradesh,null,6,Dr. Mahesh Sharma,GAUTAM BUDDHA NAGAR,GAUTAMBUDHNAGAR,17,9.5,7.5,0.38,0.93,1,2022-2023,31-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Utilisation Certificate Pending."
+Uttar Pradesh,null,7,Dr. Sanghamitra Maurya,BADAUN,BUDAUN,17,9.5,7.5,0.39,2.53,1,2022-2023,21-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Uttar Pradesh,null,8,Dr. Sanjeev Kumar Balyan,MUZAFFARNAGAR,MUZAFFARNAGAR,17,12,5,0.08,2.26,2,2022-2023,07-03-2023,2.5,null,1 / 2023-2024,
+Uttar Pradesh,null,9,Dr. Satya Pal Singh,BAGHPAT,BAGHPAT,17,7,10,-2.13,2.97,1,2021-2022,30-06-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",Eligible MPR not Received.
+Uttar Pradesh,null,10,Dr. Seyed Tufail Hasan,MORADABAD,MORADABAD,17,12,5,0.46,1.66,2,2022-2023,27-01-2023,2.5,null,1 / 2023-2024,
+Uttar Pradesh,null,11,Dr. Swami Sachchidanandhari Sakshi ji Maharaj,UNNAO,UNNAO,24.5,14.5,10,0.06,2.54,2,2018-2019,30-01-2023,2.5,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Uttar Pradesh,null,12,Kunwar Pushpendra Singh Chandel,HAMIRPUR,MAHOBA,24.5,14.5,10,0.03,0.95,2,2018-2019,28-11-2022,2.5,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Uttar Pradesh,null,13,Prof. Dr. Ram Shankar Katheria,ETAWAH(SC),ETAWAH,17,9.5,7.5,0.89,1.77,1,2022-2023,12-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Utilisation Certificate Pending."
+Uttar Pradesh,null,14,Prof. Rita Bahuguna Joshi,ALLAHABAD,ALLAHABAD,17,9.5,7.5,0.94,2.88,1,2022-2023,29-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Uttar Pradesh,null,15,Prof. S.P. Singh Baghel,AGRA(SC),AGRA,17,12,5,0.07,1.07,2,2022-2023,29-03-2023,2.5,null,1 / 2023-2024,
+Uttar Pradesh,null,16,Shri Afzal Ansari,GHAZIPUR,GHAZIPUR,17,9.5,7.5,0.77,2.21,1,2022-2023,31-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Utilisation Certificate Pending."
+Uttar Pradesh,null,17,Shri Ajay (Teni) Misra,KHERI,KHERI,17,12,5,0.01,0.14,2,2022-2023,28-03-2023,2.5,null,1 / 2023-2024,
+Uttar Pradesh,null,18,Shri Akhilesh Yadav-Ex,AZAMGARH,AZAMGARH,12,7,5,2.34,2.87,1,2021-2022,27-05-2022,2,null,1 / 2023-2024,
+Uttar Pradesh,null,19,Shri Akshaibar Lal,BAHRAICH(SC),BAHRAICH,29.5,19.5,10,0.07,2.9,2,2018-2019,27-09-2022,2.5,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Uttar Pradesh,null,20,Shri Anurag Sharma,JHANSI,JHANSI,17,7,10,0.65,2.27,1,2021-2022,06-06-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Uttar Pradesh,null,21,Shri Arun Kumar Sagar,SHAHJAHANPUR(SC),SHAHJAHANPUR,17,9.5,7.5,0,0,1,2022-2023,28-11-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Uttar Pradesh,null,22,Shri Ashok Kumar Rawat,MISRIKH(SC),HARDOI,17,9.5,7.5,0.6,2.03,1,2022-2023,20-12-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Utilisation Certificate Pending."
+Uttar Pradesh,null,23,Shri Atul Kumar Singh,GHOSI,MAU,17,7,10,0.75,1.33,1,2021-2022,31-01-2023,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Uttar Pradesh,null,24,Shri B.P. Saroj Bholanath,MACHHLISHAHR(SC),JAUNPUR,17,12,5,0.32,2.06,2,2022-2023,14-03-2023,2.5,null,1 / 2023-2024,
+Uttar Pradesh,null,25,Shri Bhanu Pratap Singh Verma,JALAUN(SC),JALAUN,24.5,14.5,10,0.07,1.29,2,2018-2019,02-03-2023,2.5,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",Eligible MPR not Received.
+Uttar Pradesh,null,26,Shri Brijbhushan Sharan Singh,KAISERGANJ,GONDA,19.5,12,7.5,0.35,0.35,1,2022-2023,21-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Uttar Pradesh,null,27,Shri Danish Ali Kunwar,AMROHA,JYOTIBA PHOLENAGAR,17,9.5,7.5,0.21,0.66,1,2022-2023,30-12-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Utilisation Certificate Pending."
+Uttar Pradesh,null,28,Shri Devendra alias Bhole Singh,AKBARPUR,KANPUR NAGAR,17,9.5,7.5,0.22,1.96,1,2022-2023,27-12-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Utilisation Certificate Pending."
+Uttar Pradesh,null,29,Shri Dharmendra Kumar Kashyap,AONLA,BAREILLY,19.5,12,7.5,0.32,1.67,2,2018-2019,16-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Uttar Pradesh,null,30,Shri Dinesh Lal Yadav(Nirahua),AZAMGARH,AZAMGARH,10,5,5,-0.02,0.97,2,2022-2023,24-11-2022,2.5,null,1 / 2023-2024,
+Uttar Pradesh,null,31,Shri Feroze Varun Gandhi,PILIBHIT,PILIBHIT,17,9.5,7.5,0.37,0.89,1,2022-2023,07-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Utilisation Certificate Pending."
+Uttar Pradesh,null,32,Shri Ghanshyam Singh Lodhi,RAMPUR,RAMPUR,14.5,9.5,5,0.09,1.95,1,2021-2022,25-03-2023,2,null,1 / 2023-2024,
+Uttar Pradesh,null,33,Shri Girish Chandra,NAGINA(SC),BIJNORE,17,9.5,7.5,0.45,1.52,1,2022-2023,21-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Uttar Pradesh,null,34,Shri Harish Dwivedi,BASTI,BASTI,17,5,12,-5.89,0.13,2,2019-2020,22-03-2022,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Uttar Pradesh,null,35,Shri Jagdambika Pal,DOMARIYAGANJ,SIDDHARTH NAGAR,17,7,10,0.82,1.99,1,2021-2022,28-11-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Uttar Pradesh,null,36,Shri Jai Prakash,HARDOI (SC),HARDOI,17,9.5,7.5,0.67,2.14,1,2022-2023,20-12-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Utilisation Certificate Pending."
+Uttar Pradesh,null,37,Shri Kamlesh Paswan,BANSGAON(SC),GORAKHPUR,17,9.5,7.5,0.55,2.1,1,2022-2023,17-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Utilisation Certificate Pending."
+Uttar Pradesh,null,38,Shri Kaushal Kishore,MOHANLALGANJ(SC),LUCKNOW,17,12,5,0.09,1.93,2,2022-2023,28-03-2023,2.5,null,1 / 2023-2024,
+Uttar Pradesh,null,39,Shri Kirti Vardhan Singh,GONDA,GONDA,22,12,10,0.71,0.89,1,2021-2022,13-06-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Uttar Pradesh,null,40,Shri Lallu Singh,FAIZABAD,FAIZABAD,17,9.5,7.5,0.19,0.23,1,2022-2023,28-11-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+Uttar Pradesh,null,41,Shri Malook Nagar,BIJNOR,BIJNORE,17,7,10,0.95,2.88,1,2021-2022,25-05-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Uttar Pradesh,null,42,Shri Mohammad Azam Khan-ex,RAMPUR,RAMPUR,7.5,2.5,5,0.58,0.58,1,2019-2020,13-11-2019,2.5,null,1 / 2023-2024,
+Uttar Pradesh,null,43,Shri Mukesh Rajput,FARRUKHABAD,FARRUKHABAD,17,9.5,7.5,0.06,0.64,1,2022-2023,20-12-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Utilisation Certificate Pending."
+Uttar Pradesh,null,44,Shri Mulayam Singh Yadav,MAINPURI,MAINPURI,17,7,10,0.34,1.21,1,2021-2022,22-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",Eligible MPR not Received.
+Uttar Pradesh,null,45,Shri Narendra Modi,VARANASI,VARANASI,19.5,7,12.5,0.37,0.43,1,2021-2022,25-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2018-2019,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Uttar Pradesh,null,46,Shri Pakauri Lal,ROBERTSGANJ(SC),SONBHADRA,17,12,5,-0.64,1.59,2,2022-2023,14-03-2023,2.5,null,1 / 2023-2024,
+Uttar Pradesh,null,47,Shri Pankaj Chowdhary,MAHARAJGANJ,MAHRAJGANJ,17,9.5,7.5,0,0.4,1,2022-2023,27-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Utilisation Certificate Pending."
+Uttar Pradesh,null,48,Shri Pradeep Kumar Chaudhary,KAIRANA,SHAMLI,17,9.5,7.5,0.01,0.62,1,2022-2023,31-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Utilisation Certificate Pending."
+Uttar Pradesh,null,49,Shri Praveen Kumar Nishad,SANT KABIR NAGAR,SANT KABIR NAGAR,17,7,10,0.96,2.5,1,2021-2022,30-06-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Uttar Pradesh,null,50,Shri R.K. Singh Patel,BANDA,CHITRAKOOT,17,9.5,7.5,0.16,0.83,1,2022-2023,28-11-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Uttar Pradesh,null,51,Shri Rajendra Agrawal,MEERUT,MEERUT,17,9.5,7.5,0.08,1.18,1,2022-2023,24-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Uttar Pradesh,null,52,Shri Rajesh Verma,SITAPUR,SITAPUR,17,9.5,7.5,0.06,2.82,1,2022-2023,20-12-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Uttar Pradesh,null,53,Shri Rajkumar Chahar,FATEHPUR SIKRI,AGRA,17,12,5,0.01,0.87,2,2022-2023,28-03-2023,2.5,null,1 / 2023-2024,
+Uttar Pradesh,null,54,Shri Rajnath Singh,LUCKNOW,LUCKNOW,17,12,5,0.58,2.43,2,2022-2023,29-03-2023,2.5,null,1 / 2023-2024,
+Uttar Pradesh,null,55,Shri Rajveer Diler,HATHRAS (SC),HATHRAS,17,9.5,7.5,0.32,0.65,1,2022-2023,21-11-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Uttar Pradesh,null,56,Shri Rajveer Raju Bhaiya Singh,ETAH,Kasganj (KANSHIRAM NAGAR),17,9.5,7.5,-0.04,0.64,1,2022-2023,07-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Utilisation Certificate Pending."
+Uttar Pradesh,null,57,Shri Ramapati Ram Tripathi,DEORIA,DEORIA,17,9.5,7.5,0.43,0.72,1,2022-2023,30-12-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Utilisation Certificate Pending."
+Uttar Pradesh,null,58,Shri Ravindra Kushawaha,SALEMPUR,BALLIA,17,7,10,0.21,1.63,1,2021-2022,23-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Uttar Pradesh,null,59,Shri Ravindra Shyamnarayan alias Ravi Kishan Shukla,GORAKHPUR,GORAKHPUR,17,9.5,7.5,0.19,2.53,1,2022-2023,30-12-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Utilisation Certificate Pending."
+Uttar Pradesh,null,60,Shri Ritesh Pandey,AMBEDKAR NAGAR,AMBEDKARNAGAR,17,9.5,7.5,0.04,2.43,1,2022-2023,12-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Utilisation Certificate Pending."
+Uttar Pradesh,null,61,Shri Sangam Lal Gupta,PRATAPGARH,PRATAPGARH,17,9.5,7.5,0.4,2.25,1,2022-2023,24-02-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Utilisation Certificate Pending."
+Uttar Pradesh,null,62,Shri Santosh Kumar Gangwar,BAREILLY,BAREILLY,19.5,12,7.5,0.1,1.92,2,2018-2019,16-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Uttar Pradesh,null,63,Shri Satish Kumar Gautam,ALIGARH,ALIGARH,17,12,5,0.03,0.32,2,2022-2023,30-03-2023,2.5,null,1 / 2023-2024,
+Uttar Pradesh,null,64,Shri Satyadev Pachauri,KANPUR,KANPUR NAGAR,17,12,5,0.1,1.67,2,2022-2023,03-01-2023,2.5,null,1 / 2023-2024,
+Uttar Pradesh,null,65,Shri Shafiqur Rahman Barq,SAMBHAL,BHIMNAGAR(Sambhal),17,12,5,0.96,2.19,2,2022-2023,30-03-2023,2.5,null,1 / 2023-2024,
+Uttar Pradesh,null,66,Shri Subrata Pathak,KANNAUJ,KANNAUJ,17,9.5,7.5,0.42,1.96,1,2022-2023,24-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Uttar Pradesh,null,67,Shri Upendra Singh Rawat,BARABANKI(SC),BARABANKI,19.5,12,7.5,0.51,2.56,2,2018-2019,03-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Utilisation Certificate Pending."
+Uttar Pradesh,null,68,Shri Vijay Kumar Dubey,KUSHI NAGAR,KUSHINAGAR (Padrauna),17,12,5,0.34,1.37,2,2022-2023,27-03-2023,2.5,null,1 / 2023-2024,
+Uttar Pradesh,null,69,Shri Vinod Kumar Sonkar,KAUSHAMBI(SC),KAUSHAMBI,17,12,5,0.27,1.46,2,2022-2023,28-03-2023,2.5,null,1 / 2023-2024,
+Uttar Pradesh,null,70,Shri Virendra Singh,BALLIA,BALLIA,17,7,10,0.54,1.97,1,2021-2022,20-05-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Uttar Pradesh,null,71,SHRI. Bhola Singh,BULANDSHAHR(SC),BULANDSHAHR,17,9.5,7.5,0.02,0.02,1,2022-2023,12-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Utilisation Certificate Pending."
+Uttar Pradesh,null,72,SHRI. Ram Shiromani,SHRAWASTI,BALRAMPUR,17,5,12,0.57,1.59,2,2019-2020,27-03-2021,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Bank Statement Awaited, Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Uttar Pradesh,null,73,SHRI. Shyam Yadav Singh,JAUNPUR,JAUNPUR,17,7,10,0.18,2.56,1,2022-2023,24-03-2023,2.5,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Uttar Pradesh,null,74,Smt Niranjan Jyoti,FATEHPUR,FATEHPUR,17,9.5,7.5,0.03,1.68,1,2022-2023,30-12-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Utilisation Certificate Pending."
+Uttar Pradesh,null,75,Smt. Anupriya Patel,MIRZAPUR,MIRZAPUR,17,7,10,0.6,2.14,1,2021-2022,22-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Uttar Pradesh,null,76,Smt. DIMPLE YADAV,MAINPURI,MAINPURI,7.5,2.5,5,0.7,1.42,2,2022-2023,14-03-2023,2.5,null,1 / 2023-2024,
+Uttar Pradesh,null,77,Smt. Hema Malini,MATHURA,MATHURA,17,7,10,-9.78,-1.86,1,2021-2022,17-06-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Uttar Pradesh,null,78,Smt. Keshari Devi Patel,PHULPUR,ALLAHABAD,17,7,10,0.34,2.26,1,2021-2022,19-05-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Uttar Pradesh,null,79,Smt. Maneka Sanjay Gandhi,SULTANPUR,SULTANPUR,17,9.5,7.5,-0.17,2.64,1,2022-2023,23-12-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Utilisation Certificate Pending."
+Uttar Pradesh,null,80,Smt. Rekha Arun Verma,DHAURAHRA,KHERI,17,12,5,0.13,0.5,2,2022-2023,27-03-2023,2.5,null,1 / 2023-2024,
+Uttar Pradesh,null,81,Smt. Sangeeta Azad,LALGANJ (SC),AZAMGARH,17,12,5,0.19,1.19,2,2022-2023,27-03-2023,2.5,null,1 / 2023-2024,
+Uttar Pradesh,null,82,Smt. Smriti Irani,AMETHI,AMETHI,17,7,10,0.28,1.94,1,2021-2022,24-03-2023,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Uttar Pradesh,null,83,Smt. Sonia Gandhi,RAE BARELI,RAE BARELI,17,7,10,0.52,2.19,1,2021-2022,30-05-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",Eligible MPR not Received.
+Uttarakhand,8,1,Dr. Ramesh Pokhriyal Nishank,HARDWAR,HARIDWAR,17,7,10,-0.32,1.96,1,2021-2022,08-06-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",Eligible MPR not Received.
+Uttarakhand,null,2,Shri Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,NAINITAL,17,7,10,-0.08,0.02,1,2021-2022,13-05-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+Uttarakhand,null,3,Shri Ajay Tamta,ALMORA(SC),ALMORA,17,9.5,7.5,0.01,1.74,1,2022-2023,31-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+Uttarakhand,null,4,SHRI. Tirath Singh Rawat,GARHWAL,PAURI GARHWAL,17,7,10,0.93,2.89,1,2021-2022,22-12-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+Uttarakhand,null,5,Smt. Mala Rajya Laxmi Shah,TEHRI GARHWAL,TEHRI GARHWAL,17,9.5,7.5,0.79,1.43,1,2022-2023,26-12-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+West Bengal,8,1,Dr. (Smt.) Kakoli Ghosh Dastidar,BARASAT,NORTH TWENTY FOUR PARGANAS,17,9.5,7.5,0.01,4.13,1,2022-2023,25-11-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+West Bengal,null,2,Dr. Jayanta Kumar Roy,JALPAIGURI(SC),JALPAIGURI,17,5,12,0.9,2.79,2,2019-2020,27-02-2020,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+West Bengal,null,3,Dr. Subhas Sarkar,BANKURA,BANKURA,17,5,12,0.1,2.42,2,2019-2020,30-05-2022,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+West Bengal,null,4,Dr. Sukanta Majumdar,BALURGHAT,SOUTH DINAJPUR,17,9.5,7.5,0.98,2.64,1,2022-2023,29-11-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+West Bengal,null,5,Ms Mahua Moitra,KRISHNANAGAR,NADIA,17,12,5,-0.62,1.76,2,2022-2023,07-11-2022,2.5,null,1 / 2023-2024,
+West Bengal,null,6,Ms Mimi Chakraborty,JADAVPUR,SOUTH TWENTY FOUR PARGANAS,17,9.5,7.5,-2.97,0.66,1,2022-2023,27-07-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+West Bengal,null,7,Ms. Debasree Chaudhuri,RAIGANJ,NORTH DINAJPUR,17,12,5,0.05,0.08,2,2022-2023,31-01-2023,2.5,null,1 / 2023-2024,
+West Bengal,null,8,Prof. Saugata Roy,DUM DUM,NORTH TWENTY FOUR PARGANAS,17,9.5,7.5,0.41,2.42,1,2022-2023,29-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+West Bengal,null,9,SH. Saumitra khan,BISHNUPUR(SC),BANKURA,17,7,10,0.13,0.83,1,2021-2022,21-03-2023,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+West Bengal,null,10,Shri Abhishek Banerjee,DIAMOND HARBOUR,SOUTH TWENTY FOUR PARGANAS,17,9.5,7.5,-5.28,1.2,1,2022-2023,29-08-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+West Bengal,null,11,Shri Abu Hasem Khan Choudhury,MALDAHA DAKSHIN,MALDA,24.5,9.5,15,0.97,2.74,1,2022-2023,07-11-2022,2.5,null,"1 / 2023-2024,1 / 2017-2018,1 / 2018-2019,2 / 2022-2023",
+West Bengal,null,12,Shri Abu Taher Khan,MURSHIDABAD,MURSHIDABAD,29.5,7,22.5,0.81,2.91,1,2021-2022,11-11-2022,2,null,"1 / 2023-2024,1 / 2017-2018,1 / 2018-2019,1 / 2016-2017,1 / 2022-2023,2 / 2022-2023",
+West Bengal,null,13,Shri Adhir Ranjan Chowdhury,BAHARAMPUR,MURSHIDABAD,29.5,7,22.5,0.63,2.98,1,2021-2022,07-11-2022,2,null,"1 / 2022-2023,1 / 2023-2024,1 / 2017-2018,1 / 2018-2019,2 / 2016-2017,2 / 2022-2023",
+West Bengal,null,14,Shri Arjun Singh,BARRACKPUR,NORTH TWENTY FOUR PARGANAS,17,7,10,-1.12,2.92,1,2021-2022,07-11-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+West Bengal,null,15,Shri Choudhury Mohan Jatua,MATHURAPUR(SC),SOUTH TWENTY FOUR PARGANAS,17,9.5,7.5,-1.96,1.14,1,2022-2023,27-07-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Audit Certificate Pending, Eligible MPR not Received, Utilisation Certificate Pending."
+West Bengal,null,16,Shri Deepak (Dev) Adhikari,GHATAL,PASCHIMI MEDINIPUR,17,7,10,-0.38,0.83,1,2021-2022,08-09-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+West Bengal,null,17,Shri Dibyendu Adhikari,TAMLUK,PURBA MEDINIPUR,17,7,10,0.39,1.34,1,2021-2022,15-02-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+West Bengal,null,18,Shri Dilip Ghosh,MEDINIPUR,PASCHIMI MEDINIPUR,17,7,10,0.03,0.74,1,2021-2022,15-06-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+West Bengal,null,19,Shri John Barla,ALIPURDUARS(ST),ALIPURDUAR,17,7,10,0.66,1.5,1,2021-2022,28-01-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+West Bengal,null,20,Shri Jyotirmay Singh Mahato,PURULIA,PURULIA,17,5,12,0.11,2.98,2,2019-2020,16-08-2022,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+West Bengal,null,21,Shri Kalyan Banerjee,SREERAMPUR,HOOGHLY,17,9.5,7.5,0.02,2.98,1,2022-2023,21-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+West Bengal,null,22,Shri Khagen Murmu,MALDAHA UTTAR,MALDA,17,7,10,0.4,2.52,1,2021-2022,14-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+West Bengal,null,23,Shri Khalilur Rahaman,JANGIPUR,MURSHIDABAD,27,7,20,-0.04,1.66,1,2021-2022,11-11-2022,2,null,"1 / 2022-2023,1 / 2023-2024,1 / 2017-2018,1 / 2018-2019,2 / 2022-2023",
+West Bengal,null,24,Shri Kunar Hembram,JHARGRAM(ST),Jhargram,17,9.5,7.5,0.6,0.63,1,2022-2023,28-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+West Bengal,null,25,Shri Nisith Pramanik,COOCHBEHAR(SC),COOCH BEHAR,17,9.5,7.5,0.72,2.69,1,2022-2023,20-01-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+West Bengal,null,26,Shri Prasun Banerjee,HOWRAH,HOWRAH,17,7,10,0,0.87,1,2021-2022,09-06-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+West Bengal,null,27,Shri Raju Bista,DARJEELING,DARJEELING,17,7,10,0.32,0.89,1,2021-2022,22-12-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+West Bengal,null,28,Shri S.S. Ahluwalia,BARDHAMAN-DURGAPUR,PURBA BARDHAMAN,17,2.5,14.5,0.2,2.74,1,2019-2020,06-11-2019,2.5,null,"1 / 2021-2022,1 / 2022-2023,1 / 2023-2024,2 / 2019-2020,2 / 2022-2023",Eligible MPR not Received.
+West Bengal,null,29,Shri Shantanu Thakur,BANGAON(SC),NORTH TWENTY FOUR PARGANAS,17,7,10,0.49,2.94,1,2021-2022,15-06-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+West Bengal,null,30,Shri Shatrughan Sinha,ASANSOL,PASCHIM BARDHAMAN,20,2.5,17.5,0.83,2.22,1,2022-2023,20-12-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+West Bengal,null,31,Shri Sisir Kumar Adhikari,KANTHI,PURBA MEDINIPUR,17,7,10,0.37,0.97,1,2021-2022,21-02-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+West Bengal,null,32,Shri Sudip Bandyopadhyay,KOLKATA UTTAR,KOLKATA,17,7,10,-3.33,2.8,1,2021-2022,30-03-2023,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023",
+West Bengal,null,33,Shri Sunil Kumar Mondal,BARDHAMAN PURBA(SC),PURBA BARDHAMAN,17,7,10,-0.21,2.28,1,2021-2022,09-03-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+West Bengal,null,34,SHRI. Asit Kumar Mal,BOLPUR(SC),BIRBHUM,17,9.5,7.5,0.67,1.05,1,2022-2023,02-08-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+West Bengal,null,35,SHRI. Jagannath Sarkar,RANAGHAT(SC),NADIA,17,9.5,7.5,0.44,2.97,1,2022-2023,21-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+West Bengal,null,36,Smt Nusrat Jahan Ruhi,BASIRHAT,NORTH TWENTY FOUR PARGANAS,17,9.5,7.5,0.79,2.16,1,2022-2023,14-02-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+West Bengal,null,37,Smt. Aparupa Poddar,ARAMBAG(SC),HOOGHLY,17,9.5,7.5,0.03,3,1,2022-2023,21-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+West Bengal,null,38,Smt. Locket Chatterjee,HOOGHLY,HOOGHLY,17,7,10,0.11,2.94,1,2021-2022,27-05-2022,2,null,"1 / 2022-2023,1 / 2023-2024,2 / 2022-2023","Eligible MPR not Received, Provisional Utilisation Certificate Pending."
+West Bengal,null,39,Smt. Mala Roy,KOLKATA DAKSHIN,KOLKATA,17,9.5,7.5,-0.27,2.83,1,2022-2023,27-12-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+West Bengal,null,40,Smt. Pratima Mondal,JOYNAGAR(SC),SOUTH TWENTY FOUR PARGANAS,17,9.5,7.5,-2.93,1.65,1,2022-2023,27-02-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+West Bengal,null,41,Smt. Sajda Ahmed,ULUBERIA,HOWRAH,17,9.5,7.5,-0.09,0.44,1,2022-2023,27-12-2022,2.5,null,"1 / 2023-2024,2 / 2022-2023",
+West Bengal,null,42,Smt. Satabdi Roy (Banerjee),BIRBHUM,BIRBHUM,17,9.5,7.5,0.25,0.84,1,2022-2023,28-03-2023,2.5,null,"1 / 2023-2024,2 / 2022-2023",
